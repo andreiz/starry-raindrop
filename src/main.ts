@@ -36,9 +36,9 @@ export const main = async () => {
       title: star.repo.full_name,
       link: star.repo.html_url,
       tags: _([
-        "github",
-        star.repo.language || undefined,
-        ...(star.repo.topics || []),
+        "github"
+        //star.repo.language || undefined
+        //...(star.repo.topics || []),
       ])
         .compact()
         .map((i) => i.toLowerCase())
