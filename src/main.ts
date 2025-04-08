@@ -37,12 +37,11 @@ export const main = async () => {
       link: star.repo.html_url,
       tags: _([
         "github"
-        //star.repo.language || undefined
-        //...(star.repo.topics || []),
       ])
         .compact()
         .map((i) => i.toLowerCase())
         .value(),
+      note: `topics: ${[star.repo.language || undefined, ...(star.repo.topics || [])].join(", ")}`,
       created: star.starred_at,
       excerpt: star.repo.description,
     };
