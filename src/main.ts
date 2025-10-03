@@ -1,7 +1,7 @@
 import axios from "axios";
 import _ from "lodash";
 import { Octokit } from "octokit";
-import { archiveStars, fetchStarsFromGitHub } from "./archiver.js";
+import { archiveStars } from "./archiver.js";
 
 const raindropAxios = axios.create({
   baseURL: "https://api.raindrop.io/rest/v1",
@@ -14,11 +14,9 @@ const raindropAxios = axios.create({
 export const main = async () => {
   const octokit = new Octokit({ auth: process.env.GH_TOKEN });
 
-  // Archive starred repos to local JSON file
-  await archiveStars(octokit);
-
-  console.log(new Date(), "Fetching all your starred repos...");
-  const starredRepos = await fetchStarsFromGitHub(octokit);
+  // Archive starred repos to local JSON file and get current stars
+  console.log(new Date(), "Fetching and archiving starred repos...");
+  const starredRepos = await archiveStars(octokit);
   console.log(new Date(), `Found ${starredRepos.length} starred repos!`);
 
   // Convert to the format expected by the original code

@@ -69,8 +69,9 @@ export async function fetchStarsFromGitHub(
 
 /**
  * Archive starred repos to local JSON file and commit changes
+ * Returns the current stars from GitHub for reuse
  */
-export async function archiveStars(octokit: Octokit): Promise<void> {
+export async function archiveStars(octokit: Octokit): Promise<StarredRepo[]> {
   console.log(new Date(), "Archiving starred repos...");
 
   // Load existing stars
@@ -85,7 +86,7 @@ export async function archiveStars(octokit: Octokit): Promise<void> {
 
   if (newStars.length === 0) {
     console.log(new Date(), "No new starred repos to archive");
-    return;
+    return currentStars;
   }
 
   console.log(new Date(), `Found ${newStars.length} new starred repos`);
@@ -110,8 +111,11 @@ export async function archiveStars(octokit: Octokit): Promise<void> {
 
     execSync(`git add ${ARCHIVE_FILE}`, { stdio: "inherit" });
     execSync(`git commit -m "${commitMessage}"`, { stdio: "inherit" });
-    console.log(new Date(), `Committed changes: ${commitMessage}`);
+    execSync('git push', { stdio: "inherit" });
+    console.log(new Date(), `Committed and pushed changes: ${commitMessage}`);
   } catch (error: any) {
     console.error(new Date(), `Failed to commit changes: ${error.message}`);
   }
+
+  return currentStars;
 }
