@@ -104,6 +104,10 @@ export async function archiveStars(octokit: Octokit): Promise<void> {
     const today = new Date().toISOString().split("T")[0];
     const commitMessage = `Archive ${newStars.length} new starred repo${newStars.length > 1 ? "s" : ""} (${today})`;
 
+    // Configure git user identity if not already set
+    execSync('git config user.email "github-actions[bot]@users.noreply.github.com"', { stdio: "inherit" });
+    execSync('git config user.name "github-actions[bot]"', { stdio: "inherit" });
+
     execSync(`git add ${ARCHIVE_FILE}`, { stdio: "inherit" });
     execSync(`git commit -m "${commitMessage}"`, { stdio: "inherit" });
     console.log(new Date(), `Committed changes: ${commitMessage}`);
