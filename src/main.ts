@@ -1,6 +1,7 @@
 import axios from "axios";
 import _ from "lodash";
 import { Octokit } from "octokit";
+import { archiveStars, fetchStarsFromGitHub } from "./archiver.js";
 
 const raindropAxios = axios.create({
   baseURL: "https://api.raindrop.io/rest/v1",
@@ -13,24 +14,26 @@ const raindropAxios = axios.create({
 export const main = async () => {
   const octokit = new Octokit({ auth: process.env.GH_TOKEN });
 
+  // Archive starred repos to local JSON file
+  await archiveStars(octokit);
+
   console.log(new Date(), "Fetching all your starred repos...");
-  const stars = await octokit.paginate(
-    octokit.rest.activity.listReposStarredByAuthenticatedUser,
-    {
-      per_page: 100,
-      headers: {
-        // Required to get the `starred_at` property
-        // https://docs.github.com/en/rest/activity/starring#list-repositories-starred-by-the-authenticated-user
-        accept: "application/vnd.github.v3.star+json",
-      },
-    }
-  );
-  console.log(new Date(), `Found ${stars.length} starred repos!`);
+  const starredRepos = await fetchStarsFromGitHub(octokit);
+  console.log(new Date(), `Found ${starredRepos.length} starred repos!`);
 
-  // Since we passed a custom header, the types aren't accurate anymore
-  type ActualStar = { starred_at: string; repo: (typeof stars)[number] };
+  // Convert to the format expected by the original code
+  const stars = starredRepos.map((repo) => ({
+    starred_at: repo.starred_at,
+    repo: {
+      full_name: repo.full_name,
+      html_url: repo.html_url,
+      description: repo.description,
+      language: repo.language,
+      topics: repo.topics,
+    },
+  }));
 
-  const newRaindrops = (stars as unknown as ActualStar[]).map((star) => {
+  const newRaindrops = stars.map((star) => {
     return {
       collectionId: process.env.RAINDROP_COLLECTION_ID,
       title: star.repo.full_name,
