@@ -1,0 +1,2112 @@
+[
+  {
+    "full_name": "wojciech-kulik/FlashSpace",
+    "html_url": "https://github.com/wojciech-kulik/FlashSpace",
+    "starred_at": "2025-10-03T16:51:43Z",
+    "description": "FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡",
+    "language": "Swift",
+    "topics": [
+      "apple",
+      "macos",
+      "swift",
+      "window-manager"
+    ]
+  },
+  {
+    "full_name": "centminmod/my-claude-code-setup",
+    "html_url": "https://github.com/centminmod/my-claude-code-setup",
+    "starred_at": "2025-10-03T16:02:13Z",
+    "description": "Shared starter template configuration and CLAUDE.md memory bank system for Claude Code",
+    "language": null,
+    "topics": [
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claudecode-config",
+      "claudecode-hooks",
+      "claudecode-subagents",
+      "subagents"
+    ]
+  },
+  {
+    "full_name": "unslothai/unsloth",
+    "html_url": "https://github.com/unslothai/unsloth",
+    "starred_at": "2025-09-26T13:07:26Z",
+    "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "deepseek",
+      "deepseek-r1",
+      "fine-tuning",
+      "gemma",
+      "gemma3",
+      "gpt-oss",
+      "llama",
+      "llama3",
+      "llm",
+      "llms",
+      "mistral",
+      "openai",
+      "qwen",
+      "qwen3",
+      "reinforcement-learning",
+      "text-to-speech",
+      "tts",
+      "unsloth",
+      "voice-cloning"
+    ]
+  },
+  {
+    "full_name": "penwyp/ClaudePreference",
+    "html_url": "https://github.com/penwyp/ClaudePreference",
+    "starred_at": "2025-09-10T16:19:16Z",
+    "description": "A comprehensive collection of development workflow commands for Claude Code",
+    "language": "Shell",
+    "topics": []
+  },
+  {
+    "full_name": "lahn92/ToolToDXF",
+    "html_url": "https://github.com/lahn92/ToolToDXF",
+    "starred_at": "2025-09-05T15:28:59Z",
+    "description": null,
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "full_name": "control-theory/gonzo",
+    "html_url": "https://github.com/control-theory/gonzo",
+    "starred_at": "2025-09-04T15:03:04Z",
+    "description": "Gonzo! The Go based TUI log analysis tool",
+    "language": "Go",
+    "topics": [
+      "ai",
+      "golang",
+      "logs",
+      "ollama",
+      "openai",
+      "opentelemetry",
+      "otel",
+      "otlp",
+      "terminal",
+      "tui"
+    ]
+  },
+  {
+    "full_name": "9001/copyparty",
+    "html_url": "https://github.com/9001/copyparty",
+    "starred_at": "2025-08-04T17:42:02Z",
+    "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps",
+    "language": "Python",
+    "topics": [
+      "copyparty",
+      "file-server",
+      "file-sharing",
+      "file-upload-server",
+      "ftp-server",
+      "nas-frontend",
+      "tftp-server",
+      "webdav-server"
+    ]
+  },
+  {
+    "full_name": "rbaron/b-parasite",
+    "html_url": "https://github.com/rbaron/b-parasite",
+    "starred_at": "2025-07-11T15:53:46Z",
+    "description": "🌱💧 An open source DIY soil moisture sensor",
+    "language": "C",
+    "topics": [
+      "ble",
+      "bluetooth-low-energy",
+      "iot",
+      "nrf52",
+      "sensor",
+      "soil-moisture",
+      "soil-moisture-sensor"
+    ]
+  },
+  {
+    "full_name": "steipete/Peekaboo",
+    "html_url": "https://github.com/steipete/Peekaboo",
+    "starred_at": "2025-07-03T15:30:14Z",
+    "description": "Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.",
+    "language": "Swift",
+    "topics": [
+      "ai",
+      "macos",
+      "mcp",
+      "screenshots"
+    ]
+  },
+  {
+    "full_name": "Orange-OpenSource/hurl",
+    "html_url": "https://github.com/Orange-OpenSource/hurl",
+    "starred_at": "2025-06-28T16:25:21Z",
+    "description": "Hurl, run and test HTTP requests with plain text.",
+    "language": "Rust",
+    "topics": [
+      "api-testing",
+      "cli",
+      "curl",
+      "http",
+      "http-client",
+      "integration-testing",
+      "testing",
+      "testing-tools"
+    ]
+  },
+  {
+    "full_name": "hesreallyhim/awesome-claude-code",
+    "html_url": "https://github.com/hesreallyhim/awesome-claude-code",
+    "starred_at": "2025-06-21T15:01:58Z",
+    "description": "A curated list of awesome commands, files, and workflows for Claude Code",
+    "language": "Python",
+    "topics": [
+      "agentic-code",
+      "agentic-coding",
+      "ai-workflow-optimization",
+      "ai-workflows",
+      "anthropic",
+      "anthropic-claude",
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "awesome-resources",
+      "claude",
+      "claude-code",
+      "coding-agent",
+      "coding-agents",
+      "coding-assistant"
+    ]
+  },
+  {
+    "full_name": "bgreenwell/lstr",
+    "html_url": "https://github.com/bgreenwell/lstr",
+    "starred_at": "2025-06-18T15:23:27Z",
+    "description": "A fast, minimalist directory tree viewer, written in Rust.",
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "command-line",
+      "command-line-tool",
+      "developer-tools",
+      "filesystem",
+      "git",
+      "ls",
+      "nerd-fonts",
+      "rust-lang",
+      "tree",
+      "tui"
+    ]
+  },
+  {
+    "full_name": "zenangst/KeyboardCowboy",
+    "html_url": "https://github.com/zenangst/KeyboardCowboy",
+    "starred_at": "2025-06-02T15:43:43Z",
+    "description": ":keyboard: The missing keyboard shortcut utility for macOS",
+    "language": "Swift",
+    "topics": [
+      "macos",
+      "macos-app",
+      "macos-application"
+    ]
+  },
+  {
+    "full_name": "ayoisaiah/f2",
+    "html_url": "https://github.com/ayoisaiah/f2",
+    "starred_at": "2025-06-02T15:42:28Z",
+    "description": "F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!",
+    "language": "Go",
+    "topics": [
+      "batch-rename",
+      "bulk-rename-files",
+      "golang",
+      "linux",
+      "macos",
+      "rename-files",
+      "windows"
+    ]
+  },
+  {
+    "full_name": "apple/ml-fastvlm",
+    "html_url": "https://github.com/apple/ml-fastvlm",
+    "starred_at": "2025-06-01T16:16:01Z",
+    "description": "This repository contains the official implementation of \"FastVLM: Efficient Vision Encoding for Vision Language Models\" - CVPR 2025",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "full_name": "DavidPhillipOster/ThumbHost3mf",
+    "html_url": "https://github.com/DavidPhillipOster/ThumbHost3mf",
+    "starred_at": "2025-05-08T15:53:30Z",
+    "description": "A macOS app that hosts a thumbnail provider that makes the Finder displays the thumbnails built in to some .gcode and .3mf files.",
+    "language": "C",
+    "topics": []
+  },
+  {
+    "full_name": "leofabri/hassio_appliance-status-monitor",
+    "html_url": "https://github.com/leofabri/hassio_appliance-status-monitor",
+    "starred_at": "2025-05-05T20:33:13Z",
+    "description": "🔌 Detect the state of your appliances based on their power consumption ✨",
+    "language": null,
+    "topics": [
+      "automation",
+      "home-assistant",
+      "home-automation",
+      "homeassistant",
+      "state-machine"
+    ]
+  },
+  {
+    "full_name": "The-Pocket/PocketFlow",
+    "html_url": "https://github.com/The-Pocket/PocketFlow",
+    "starred_at": "2025-04-28T14:47:49Z",
+    "description": "Pocket Flow: 100-line LLM framework. Let Agents build Agents!",
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "agents",
+      "ai-framework",
+      "ai-frameworks",
+      "aiagent",
+      "aiagents",
+      "artificial-intelligence",
+      "flow-based-programming",
+      "flow-engineering",
+      "large-language-model",
+      "large-language-models",
+      "llm-agent",
+      "llm-framework",
+      "pocket-flow",
+      "pocketflow",
+      "retrieval-augmented-generation",
+      "workflow",
+      "workflow-orchestration"
+    ]
+  },
+  {
+    "full_name": "arsaboo/homeassistant-config",
+    "html_url": "https://github.com/arsaboo/homeassistant-config",
+    "starred_at": "2025-04-27T16:06:41Z",
+    "description": "🏡 My Home Assistant Configs. Be sure to :star2: my repo to follow the updates!",
+    "language": "Python",
+    "topics": [
+      "home-assistant-config"
+    ]
+  },
+  {
+    "full_name": "dimonomid/nerdlog",
+    "html_url": "https://github.com/dimonomid/nerdlog",
+    "starred_at": "2025-04-23T13:36:43Z",
+    "description": "Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server",
+    "language": "Go",
+    "topics": [
+      "devops-tools",
+      "distributed",
+      "go",
+      "histogram",
+      "log-analysis",
+      "log-management",
+      "log-monitor",
+      "log-search",
+      "log-viewer",
+      "log-visualization",
+      "logging",
+      "logs",
+      "monitoring",
+      "remote",
+      "self-hosted",
+      "syslog",
+      "timeline",
+      "tui"
+    ]
+  },
+  {
+    "full_name": "juliangarnier/anime",
+    "html_url": "https://github.com/juliangarnier/anime",
+    "starred_at": "2025-04-11T15:02:18Z",
+    "description": "JavaScript animation engine",
+    "language": "JavaScript",
+    "topics": [
+      "animation",
+      "anime",
+      "canvas",
+      "css",
+      "javascript",
+      "javascript-library",
+      "svg"
+    ]
+  },
+  {
+    "full_name": "koaning/smartfunc",
+    "html_url": "https://github.com/koaning/smartfunc",
+    "starred_at": "2025-04-11T14:52:27Z",
+    "description": "Turn docstrings into LLM-functions",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "full_name": "danielmiessler/Fabric",
+    "html_url": "https://github.com/danielmiessler/Fabric",
+    "starred_at": "2025-04-08T16:45:12Z",
+    "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "augmentation",
+      "flourishing",
+      "life",
+      "work"
+    ]
+  },
+  {
+    "full_name": "christian-fei/my-yt",
+    "html_url": "https://github.com/christian-fei/my-yt",
+    "starred_at": "2025-03-24T15:17:48Z",
+    "description": "A clean and minimal youtube frontend, without all the ads and whistles",
+    "language": "JavaScript",
+    "topics": []
+  },
+  {
+    "full_name": "ttkb-oss/dedup",
+    "html_url": "https://github.com/ttkb-oss/dedup",
+    "starred_at": "2025-03-15T13:00:06Z",
+    "description": "dedup finds and clones duplicate files",
+    "language": "C",
+    "topics": [
+      "apfs",
+      "copy-on-write",
+      "sysutils"
+    ]
+  },
+  {
+    "full_name": "fosrl/pangolin",
+    "html_url": "https://github.com/fosrl/pangolin",
+    "starred_at": "2025-02-19T16:31:43Z",
+    "description": "Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI",
+    "language": "TypeScript",
+    "topics": [
+      "crowdsec",
+      "docker",
+      "home-lab",
+      "identity-management",
+      "iot",
+      "letsencrypt",
+      "reverse-proxy",
+      "self-hosted",
+      "single-sign-on",
+      "traefik",
+      "wireguard"
+    ]
+  },
+  {
+    "full_name": "exelban/stats",
+    "html_url": "https://github.com/exelban/stats",
+    "starred_at": "2025-02-04T17:09:39Z",
+    "description": "macOS system monitor in your menu bar",
+    "language": "Swift",
+    "topics": [
+      "battery",
+      "bluetooth",
+      "clock",
+      "cpu",
+      "disk",
+      "fans",
+      "gpu",
+      "macos",
+      "menubar",
+      "monitor",
+      "network",
+      "sensors",
+      "stats",
+      "temperature"
+    ]
+  },
+  {
+    "full_name": "seemoo-lab/openhaystack",
+    "html_url": "https://github.com/seemoo-lab/openhaystack",
+    "starred_at": "2025-01-29T19:40:53Z",
+    "description": "Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.",
+    "language": "Swift",
+    "topics": [
+      "airtag",
+      "apple",
+      "bluetooth",
+      "find-my",
+      "location-tracker",
+      "macos",
+      "microbit",
+      "offline-finding",
+      "reverse-engineering"
+    ]
+  },
+  {
+    "full_name": "rlabbe/Kalman-and-Bayesian-Filters-in-Python",
+    "html_url": "https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python",
+    "starred_at": "2025-01-22T15:47:19Z",
+    "description": "Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.",
+    "language": "Jupyter Notebook",
+    "topics": []
+  },
+  {
+    "full_name": "nuta/operating-system-in-1000-lines",
+    "html_url": "https://github.com/nuta/operating-system-in-1000-lines",
+    "starred_at": "2025-01-13T16:21:45Z",
+    "description": "Writing an OS in 1,000 lines.",
+    "language": "C",
+    "topics": []
+  },
+  {
+    "full_name": "yaelwrites/Big-Ass-Data-Broker-Opt-Out-List",
+    "html_url": "https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List",
+    "starred_at": "2025-01-08T19:11:03Z",
+    "description": null,
+    "language": null,
+    "topics": []
+  },
+  {
+    "full_name": "agent0ai/agent-zero",
+    "html_url": "https://github.com/agent0ai/agent-zero",
+    "starred_at": "2025-01-06T16:16:56Z",
+    "description": "Agent Zero AI framework",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai",
+      "assistant",
+      "autonomous",
+      "linux",
+      "zero"
+    ]
+  },
+  {
+    "full_name": "slashback100/presence_simulation",
+    "html_url": "https://github.com/slashback100/presence_simulation",
+    "starred_at": "2025-01-06T00:38:42Z",
+    "description": "Home Assistant Presence Simulation",
+    "language": "Python",
+    "topics": [
+      "hacs",
+      "historic",
+      "home-assistant",
+      "home-automation",
+      "homeassistant",
+      "homeassistant-components",
+      "presence",
+      "presence-simulation",
+      "simulation"
+    ]
+  },
+  {
+    "full_name": "cheeaun/life",
+    "html_url": "https://github.com/cheeaun/life",
+    "starred_at": "2024-12-09T18:57:02Z",
+    "description": "Life - a timeline of important events in my life",
+    "language": "HTML",
+    "topics": [
+      "life",
+      "markdown",
+      "timeline"
+    ]
+  },
+  {
+    "full_name": "Aider-AI/aider",
+    "html_url": "https://github.com/Aider-AI/aider",
+    "starred_at": "2024-11-27T17:24:39Z",
+    "description": "aider is AI pair programming in your terminal",
+    "language": "Python",
+    "topics": [
+      "anthropic",
+      "chatgpt",
+      "claude-3",
+      "cli",
+      "command-line",
+      "gemini",
+      "gpt-3",
+      "gpt-35-turbo",
+      "gpt-4",
+      "gpt-4o",
+      "llama",
+      "openai",
+      "sonnet"
+    ]
+  },
+  {
+    "full_name": "valentinfrlch/ha-llmvision",
+    "html_url": "https://github.com/valentinfrlch/ha-llmvision",
+    "starred_at": "2024-11-23T22:16:30Z",
+    "description": "Let Home Assistant see!",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "hacs-integration",
+      "home-assistant",
+      "llm",
+      "multimodal",
+      "vision"
+    ]
+  },
+  {
+    "full_name": "microsoft/genaiscript",
+    "html_url": "https://github.com/microsoft/genaiscript",
+    "starred_at": "2024-11-01T17:14:52Z",
+    "description": "Automatable GenAI Scripting",
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "agents",
+      "ai",
+      "chatgpt",
+      "deepseek-r1",
+      "genai",
+      "genaistack",
+      "gpt",
+      "gpt4",
+      "javascript",
+      "llm",
+      "llm-framework",
+      "phi4",
+      "prompt-engineering",
+      "scripting",
+      "typescript",
+      "vscode-extension"
+    ]
+  },
+  {
+    "full_name": "martinknu/arduino-heatpumpir_fork",
+    "html_url": "https://github.com/martinknu/arduino-heatpumpir_fork",
+    "starred_at": "2024-10-28T17:19:40Z",
+    "description": "An Arduino library to control split-unit heatpumps over Infrared",
+    "language": null,
+    "topics": []
+  },
+  {
+    "full_name": "cytech/Home-Assistant-wundergroundpws",
+    "html_url": "https://github.com/cytech/Home-Assistant-wundergroundpws",
+    "starred_at": "2024-10-28T16:03:06Z",
+    "description": "Home Assistant custom component sensor for Weather Underground personal weather station users",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "full_name": "benbjohnson/litestream",
+    "html_url": "https://github.com/benbjohnson/litestream",
+    "starred_at": "2024-10-22T16:11:11Z",
+    "description": "Streaming replication for SQLite.",
+    "language": "C",
+    "topics": [
+      "replication",
+      "s3",
+      "sqlite"
+    ]
+  },
+  {
+    "full_name": "Stengo/DeskPad",
+    "html_url": "https://github.com/Stengo/DeskPad",
+    "starred_at": "2024-10-18T17:23:23Z",
+    "description": "A virtual monitor for screen sharing",
+    "language": "Swift",
+    "topics": []
+  },
+  {
+    "full_name": "shoelace-style/shoelace",
+    "html_url": "https://github.com/shoelace-style/shoelace",
+    "starred_at": "2024-10-05T17:28:02Z",
+    "description": "Web Awesome (\"Shoelace 3\") has been released! Get it here 👇👇👇",
+    "language": "TypeScript",
+    "topics": [
+      "css",
+      "designsystem",
+      "html",
+      "javascript",
+      "ui",
+      "ux",
+      "webcomponents"
+    ]
+  },
+  {
+    "full_name": "BerriAI/litellm",
+    "html_url": "https://github.com/BerriAI/litellm",
+    "starred_at": "2024-10-01T07:46:23Z",
+    "description": "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]",
+    "language": "Python",
+    "topics": [
+      "ai-gateway",
+      "anthropic",
+      "azure-openai",
+      "bedrock",
+      "gateway",
+      "langchain",
+      "litellm",
+      "llm",
+      "llm-gateway",
+      "llmops",
+      "mcp-gateway",
+      "openai",
+      "openai-proxy",
+      "vertex-ai"
+    ]
+  },
+  {
+    "full_name": "projen/projen",
+    "html_url": "https://github.com/projen/projen",
+    "starred_at": "2024-09-19T15:01:16Z",
+    "description": "Rapidly build modern applications with advanced configuration management",
+    "language": "TypeScript",
+    "topics": [
+      "aws-cdk",
+      "cdk",
+      "constructs",
+      "generator",
+      "hacktoberfest",
+      "jsii",
+      "repository-management",
+      "repository-tools",
+      "scaffolding",
+      "templates",
+      "typescript"
+    ]
+  },
+  {
+    "full_name": "jehna/humanify",
+    "html_url": "https://github.com/jehna/humanify",
+    "starred_at": "2024-09-03T04:03:45Z",
+    "description": "Deobfuscate Javascript code using ChatGPT",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "full_name": "magic-wormhole/magic-wormhole",
+    "html_url": "https://github.com/magic-wormhole/magic-wormhole",
+    "starred_at": "2024-08-20T17:27:13Z",
+    "description": "get things from one computer to another, safely",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "full_name": "mpv-player/mpv",
+    "html_url": "https://github.com/mpv-player/mpv",
+    "starred_at": "2024-08-20T17:21:49Z",
+    "description": "🎥 Command line media player",
+    "language": "C",
+    "topics": [
+      "audio",
+      "c",
+      "ffmpeg",
+      "mplayer",
+      "mpv",
+      "multimedia",
+      "video"
+    ]
+  },
+  {
+    "full_name": "timelinize/timelinize",
+    "html_url": "https://github.com/timelinize/timelinize",
+    "starred_at": "2024-08-13T20:33:24Z",
+    "description": "Store your data from all your accounts and devices in a single cohesive timeline on your own computer",
+    "language": "Go",
+    "topics": [
+      "archival",
+      "data-archiving",
+      "data-import",
+      "family-history",
+      "self-hosted",
+      "timeline"
+    ]
+  },
+  {
+    "full_name": "icloud-photos-downloader/icloud_photos_downloader",
+    "html_url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
+    "starred_at": "2024-08-02T16:59:52Z",
+    "description": "A command-line tool to download photos from iCloud",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "full_name": "mail-in-a-box/mailinabox",
+    "html_url": "https://github.com/mail-in-a-box/mailinabox",
+    "starred_at": "2024-08-02T15:56:21Z",
+    "description": "Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.",
+    "language": "Python",
+    "topics": [
+      "email",
+      "mail",
+      "server",
+      "smtp"
+    ]
+  },
+  {
+    "full_name": "igrek51/wat",
+    "html_url": "https://github.com/igrek51/wat",
+    "starred_at": "2024-07-26T20:49:57Z",
+    "description": "Deep inspection of Python objects",
+    "language": "Python",
+    "topics": [
+      "inspector",
+      "python",
+      "python-inspect"
+    ]
+  },
+  {
+    "full_name": "neilotoole/sq",
+    "html_url": "https://github.com/neilotoole/sq",
+    "starred_at": "2024-07-25T15:41:07Z",
+    "description": "sq data wrangler",
+    "language": "Go",
+    "topics": [
+      "azure-sql-edge",
+      "csv",
+      "data-wrangler",
+      "database",
+      "excel",
+      "go",
+      "golang",
+      "json",
+      "jsona",
+      "jsonl",
+      "markdown",
+      "mysql",
+      "postgres",
+      "sql",
+      "sqlserver",
+      "tsv",
+      "xlsx",
+      "xml"
+    ]
+  },
+  {
+    "full_name": "n8n-io/n8n",
+    "html_url": "https://github.com/n8n-io/n8n",
+    "starred_at": "2024-07-08T19:10:55Z",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "apis",
+      "automation",
+      "cli",
+      "data-flow",
+      "development",
+      "integration-framework",
+      "integrations",
+      "ipaas",
+      "low-code",
+      "low-code-platform",
+      "mcp",
+      "mcp-client",
+      "mcp-server",
+      "n8n",
+      "no-code",
+      "self-hosted",
+      "typescript",
+      "workflow",
+      "workflow-automation"
+    ]
+  },
+  {
+    "full_name": "poundifdef/smoothmq",
+    "html_url": "https://github.com/poundifdef/smoothmq",
+    "starred_at": "2024-07-08T19:07:46Z",
+    "description": "An improved drop-in replacement for SQS",
+    "language": "Go",
+    "topics": [
+      "message-queue",
+      "messaging",
+      "queue",
+      "sqs"
+    ]
+  },
+  {
+    "full_name": "tanelpoder/0xtools",
+    "html_url": "https://github.com/tanelpoder/0xtools",
+    "starred_at": "2024-07-08T19:05:27Z",
+    "description": "0x.Tools: X-Ray vision for Linux systems",
+    "language": "Python",
+    "topics": [
+      "ebpf",
+      "linux",
+      "observability",
+      "performance",
+      "troubleshooting"
+    ]
+  },
+  {
+    "full_name": "UninvitedActivity/UninvitedActivity",
+    "html_url": "https://github.com/UninvitedActivity/UninvitedActivity",
+    "starred_at": "2024-06-16T15:47:15Z",
+    "description": "An attempt at creating some kind of auto-updating IP address blocklist",
+    "language": "SRecode Template",
+    "topics": []
+  },
+  {
+    "full_name": "plandex-ai/plandex",
+    "html_url": "https://github.com/plandex-ai/plandex",
+    "starred_at": "2024-04-15T16:15:53Z",
+    "description": "Open source AI coding agent. Designed for large projects and real world tasks.",
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-developer-tools",
+      "ai-tools",
+      "cli",
+      "command-line",
+      "developer-tools",
+      "git",
+      "golang",
+      "gpt-4",
+      "llm",
+      "openai",
+      "polyglot-programming",
+      "terminal",
+      "terminal-based",
+      "terminal-ui"
+    ]
+  },
+  {
+    "full_name": "upscayl/upscayl",
+    "html_url": "https://github.com/upscayl/upscayl",
+    "starred_at": "2024-04-02T15:44:10Z",
+    "description": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "electron",
+      "esrgan",
+      "gigapixel",
+      "gigapixel-images",
+      "image",
+      "image-upscaling",
+      "topaz",
+      "upscale",
+      "upscalerimage",
+      "upscayl"
+    ]
+  },
+  {
+    "full_name": "seaweedfs/seaweedfs",
+    "html_url": "https://github.com/seaweedfs/seaweedfs",
+    "starred_at": "2024-02-13T18:34:11Z",
+    "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "language": "Go",
+    "topics": [
+      "blob-storage",
+      "cloud-drive",
+      "distributed-file-system",
+      "distributed-storage",
+      "distributed-systems",
+      "erasure-coding",
+      "fuse",
+      "hadoop-hdfs",
+      "hdfs",
+      "kubernetes",
+      "object-storage",
+      "posix",
+      "replication",
+      "s3",
+      "s3-storage",
+      "seaweedfs",
+      "tiered-file-system"
+    ]
+  },
+  {
+    "full_name": "alexellis/actions-batch",
+    "html_url": "https://github.com/alexellis/actions-batch",
+    "starred_at": "2024-01-12T17:11:53Z",
+    "description": "Time-sharing supercomputer built on GitHub Actions",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "full_name": "wagoodman/dive",
+    "html_url": "https://github.com/wagoodman/dive",
+    "starred_at": "2024-01-09T15:58:47Z",
+    "description": "A tool for exploring each layer in a docker image",
+    "language": "Go",
+    "topics": [
+      "cli",
+      "docker",
+      "docker-image",
+      "explorer",
+      "inspector",
+      "tui"
+    ]
+  },
+  {
+    "full_name": "f/awesome-chatgpt-prompts",
+    "html_url": "https://github.com/f/awesome-chatgpt-prompts",
+    "starred_at": "2023-12-16T23:52:43Z",
+    "description": "This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.",
+    "language": "JavaScript",
+    "topics": [
+      "bots",
+      "chatbot",
+      "chatgpt",
+      "chatgpt-api",
+      "language"
+    ]
+  },
+  {
+    "full_name": "jamsocket/botsh",
+    "html_url": "https://github.com/jamsocket/botsh",
+    "starred_at": "2023-12-13T18:13:25Z",
+    "description": "An LLM-based agent that will install the tools it needs.",
+    "language": "Python",
+    "topics": [
+      "docker",
+      "gpt-3",
+      "llm"
+    ]
+  },
+  {
+    "full_name": "aptible/supercronic",
+    "html_url": "https://github.com/aptible/supercronic",
+    "starred_at": "2023-12-05T05:38:31Z",
+    "description": "Cron for containers",
+    "language": "Go",
+    "topics": [
+      "supercronic"
+    ]
+  },
+  {
+    "full_name": "langchain-ai/langchain",
+    "html_url": "https://github.com/langchain-ai/langchain",
+    "starred_at": "2023-11-06T16:27:41Z",
+    "description": "🦜🔗 Build context-aware reasoning applications",
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-agents-framework",
+      "anthropic",
+      "async",
+      "chatgpt",
+      "enterprise",
+      "framework",
+      "gemini",
+      "generative-ai",
+      "langchain",
+      "llm",
+      "multiagent",
+      "open-source",
+      "openai",
+      "pydantic",
+      "python",
+      "rag"
+    ]
+  },
+  {
+    "full_name": "romkatv/powerlevel10k",
+    "html_url": "https://github.com/romkatv/powerlevel10k",
+    "starred_at": "2023-09-01T23:14:56Z",
+    "description": "A Zsh theme",
+    "language": "Shell",
+    "topics": [
+      "zsh"
+    ]
+  },
+  {
+    "full_name": "sam-hosseini/dotfiles",
+    "html_url": "https://github.com/sam-hosseini/dotfiles",
+    "starred_at": "2023-09-01T23:07:41Z",
+    "description": "My dotfiles",
+    "language": "Python",
+    "topics": [
+      "ansible",
+      "dotfiles",
+      "macos"
+    ]
+  },
+  {
+    "full_name": "norvig/pytudes",
+    "html_url": "https://github.com/norvig/pytudes",
+    "starred_at": "2023-08-29T16:12:13Z",
+    "description": "Python programs, usually short, of considerable difficulty, to perfect particular skills.",
+    "language": "Jupyter Notebook",
+    "topics": [
+      "demonstrate-skills",
+      "practice",
+      "programming",
+      "python",
+      "python-3"
+    ]
+  },
+  {
+    "full_name": "JushBJJ/Mr.-Ranedeer-AI-Tutor",
+    "html_url": "https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor",
+    "starred_at": "2023-08-15T00:11:56Z",
+    "description": "A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.",
+    "language": null,
+    "topics": [
+      "ai",
+      "education",
+      "gpt-4",
+      "llm"
+    ]
+  },
+  {
+    "full_name": "mshumer/gpt-prompt-engineer",
+    "html_url": "https://github.com/mshumer/gpt-prompt-engineer",
+    "starred_at": "2023-07-12T17:18:17Z",
+    "description": null,
+    "language": "Jupyter Notebook",
+    "topics": []
+  },
+  {
+    "full_name": "0hq/tinyvector",
+    "html_url": "https://github.com/0hq/tinyvector",
+    "starred_at": "2023-07-05T17:07:45Z",
+    "description": "A tiny nearest-neighbor embedding database built with SQLite and Pytorch. (In development!)",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "full_name": "gethomepage/homepage",
+    "html_url": "https://github.com/gethomepage/homepage",
+    "starred_at": "2023-04-09T23:11:41Z",
+    "description": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.",
+    "language": "JavaScript",
+    "topics": [
+      "docker",
+      "homepage",
+      "nextjs",
+      "node",
+      "react",
+      "self-hosted",
+      "startpage"
+    ]
+  },
+  {
+    "full_name": "fathyb/carbonyl",
+    "html_url": "https://github.com/fathyb/carbonyl",
+    "starred_at": "2023-01-31T03:11:14Z",
+    "description": "Chromium running inside your terminal",
+    "language": "Rust",
+    "topics": [
+      "browser",
+      "chromium",
+      "terminal"
+    ]
+  },
+  {
+    "full_name": "Textualize/textual",
+    "html_url": "https://github.com/Textualize/textual",
+    "starred_at": "2022-12-20T03:56:47Z",
+    "description": "The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "framework",
+      "python",
+      "rich",
+      "terminal",
+      "tui"
+    ]
+  },
+  {
+    "full_name": "wtfutil/wtf",
+    "html_url": "https://github.com/wtfutil/wtf",
+    "starred_at": "2022-12-17T17:37:15Z",
+    "description": "The personal information dashboard for your terminal",
+    "language": "Go",
+    "topics": [
+      "cui",
+      "dashboard",
+      "devops",
+      "go",
+      "golang",
+      "hacktoberfest",
+      "terminal",
+      "tui",
+      "wtf",
+      "wtfutil"
+    ]
+  },
+  {
+    "full_name": "chubin/cheat.sh",
+    "html_url": "https://github.com/chubin/cheat.sh",
+    "starred_at": "2022-11-21T19:38:09Z",
+    "description": "the only cheat sheet you need",
+    "language": "Python",
+    "topics": [
+      "cheatsheet",
+      "cli",
+      "command-line",
+      "curl",
+      "documentation",
+      "examples",
+      "hacktoberfest2021",
+      "help",
+      "terminal",
+      "tldr"
+    ]
+  },
+  {
+    "full_name": "timhutton/twitter-archive-parser",
+    "html_url": "https://github.com/timhutton/twitter-archive-parser",
+    "starred_at": "2022-11-18T05:00:59Z",
+    "description": "Python code to parse a Twitter archive and output in various ways",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "full_name": "kellyjonbrazil/jc",
+    "html_url": "https://github.com/kellyjonbrazil/jc",
+    "starred_at": "2022-10-20T15:15:12Z",
+    "description": "CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.",
+    "language": "Python",
+    "topics": [
+      "bash",
+      "bash-scripting",
+      "cli",
+      "command-line",
+      "command-line-interface",
+      "command-line-tool",
+      "convert",
+      "json",
+      "linux",
+      "parsers",
+      "python",
+      "python-library",
+      "scripting",
+      "serialize",
+      "shell-scripting",
+      "yaml"
+    ]
+  },
+  {
+    "full_name": "swyxio/ai-notes",
+    "html_url": "https://github.com/swyxio/ai-notes",
+    "starred_at": "2022-10-17T13:32:28Z",
+    "description": "notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under the /Resources folder.",
+    "language": "HTML",
+    "topics": [
+      "ai",
+      "gpt",
+      "gpt-3",
+      "multimodal",
+      "openai",
+      "prompt-engineering",
+      "stable-diffusion"
+    ]
+  },
+  {
+    "full_name": "harelba/q",
+    "html_url": "https://github.com/harelba/q",
+    "starred_at": "2022-09-22T17:19:11Z",
+    "description": "q - Run SQL directly on delimited files and multi-file sqlite databases",
+    "language": "Python",
+    "topics": [
+      "cli",
+      "command-line",
+      "command-line-tool",
+      "csv",
+      "database",
+      "python",
+      "q",
+      "qtextasdata",
+      "sql",
+      "sqlite",
+      "sqlite3",
+      "textasdata",
+      "tsv"
+    ]
+  },
+  {
+    "full_name": "jesseduffield/lazydocker",
+    "html_url": "https://github.com/jesseduffield/lazydocker",
+    "starred_at": "2022-09-16T17:12:23Z",
+    "description": "The lazier way to manage everything docker",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "full_name": "johnste/finicky",
+    "html_url": "https://github.com/johnste/finicky",
+    "starred_at": "2022-09-14T18:32:17Z",
+    "description": "A macOS app for customizing which browser to start",
+    "language": "Go",
+    "topics": [
+      "browser",
+      "go",
+      "handler",
+      "macos",
+      "menu",
+      "productivity",
+      "typescript",
+      "url"
+    ]
+  },
+  {
+    "full_name": "joaocarvalhoopen/How_to_learn_modern_Rust",
+    "html_url": "https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust",
+    "starred_at": "2022-09-13T22:03:03Z",
+    "description": "A guide to the adventurer.",
+    "language": null,
+    "topics": []
+  },
+  {
+    "full_name": "MagnusPetersen/EvoGen-Prompt-Evolution",
+    "html_url": "https://github.com/MagnusPetersen/EvoGen-Prompt-Evolution",
+    "starred_at": "2022-09-08T19:26:56Z",
+    "description": null,
+    "language": "Jupyter Notebook",
+    "topics": []
+  },
+  {
+    "full_name": "impira/transformers",
+    "html_url": "https://github.com/impira/transformers",
+    "starred_at": "2022-09-02T17:12:19Z",
+    "description": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "full_name": "TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection",
+    "html_url": "https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection",
+    "starred_at": "2022-09-01T18:49:44Z",
+    "description": "The ultimate collection of scripts for YouTube-DL.",
+    "language": "Shell",
+    "topics": []
+  },
+  {
+    "full_name": "apify/crawlee",
+    "html_url": "https://github.com/apify/crawlee",
+    "starred_at": "2022-08-24T15:42:11Z",
+    "description": "Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.",
+    "language": "TypeScript",
+    "topics": [
+      "apify",
+      "automation",
+      "crawler",
+      "crawling",
+      "headless",
+      "headless-chrome",
+      "javascript",
+      "nodejs",
+      "npm",
+      "playwright",
+      "puppeteer",
+      "scraper",
+      "scraping",
+      "typescript",
+      "web-crawler",
+      "web-crawling",
+      "web-scraping"
+    ]
+  },
+  {
+    "full_name": "jart/cosmopolitan",
+    "html_url": "https://github.com/jart/cosmopolitan",
+    "starred_at": "2022-08-23T15:35:14Z",
+    "description": "build-once run-anywhere c library",
+    "language": "C",
+    "topics": [
+      "bios",
+      "containers",
+      "darwin",
+      "efi",
+      "freebsd",
+      "libc",
+      "linux",
+      "netbsd",
+      "openbsd",
+      "polyglot",
+      "windows",
+      "zip"
+    ]
+  },
+  {
+    "full_name": "surrealdb/surrealdb",
+    "html_url": "https://github.com/surrealdb/surrealdb",
+    "starred_at": "2022-08-23T15:32:12Z",
+    "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "language": "Rust",
+    "topics": [
+      "backend-as-a-service",
+      "cloud-database",
+      "database",
+      "database-as-a-service",
+      "developer-tools",
+      "devtools",
+      "distributed",
+      "distributed-database",
+      "document-database",
+      "graph-database",
+      "iot-database",
+      "nosql",
+      "realtime-database",
+      "serverless",
+      "sql",
+      "surreal",
+      "surrealdb",
+      "web"
+    ]
+  },
+  {
+    "full_name": "nealmckee/penumbra",
+    "html_url": "https://github.com/nealmckee/penumbra",
+    "starred_at": "2022-08-05T16:05:06Z",
+    "description": "Penumbra Color Theme",
+    "language": "Julia",
+    "topics": []
+  },
+  {
+    "full_name": "Eugeny/tabby",
+    "html_url": "https://github.com/Eugeny/tabby",
+    "starred_at": "2022-08-05T16:03:21Z",
+    "description": "A terminal for a more modern age",
+    "language": "TypeScript",
+    "topics": [
+      "serial",
+      "ssh-client",
+      "telnet-client",
+      "terminal",
+      "terminal-emulators"
+    ]
+  },
+  {
+    "full_name": "micahhausler/homelab",
+    "html_url": "https://github.com/micahhausler/homelab",
+    "starred_at": "2022-08-03T15:24:27Z",
+    "description": "Homelab setup",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "full_name": "pls-rs/pls",
+    "html_url": "https://github.com/pls-rs/pls",
+    "starred_at": "2022-08-03T14:56:18Z",
+    "description": "pls is a prettier and powerful ls(1) for the pros.",
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "ls",
+      "rust",
+      "terminal"
+    ]
+  },
+  {
+    "full_name": "InterviewReady/system-design-resources",
+    "html_url": "https://github.com/InterviewReady/system-design-resources",
+    "starred_at": "2022-06-03T01:29:55Z",
+    "description": "These are the best resources for System Design on the Internet",
+    "language": null,
+    "topics": [
+      "cache",
+      "fault-tolerance",
+      "scalability",
+      "system-design"
+    ]
+  },
+  {
+    "full_name": "hasinhayder/hydra",
+    "html_url": "https://github.com/hasinhayder/hydra",
+    "starred_at": "2022-06-01T15:52:04Z",
+    "description": "Hydra is a zero-config API boilerplate with Laravel 10x + Laravel Sanctum that comes with an excellent user and role management API out of the box",
+    "language": "PHP",
+    "topics": [
+      "laravel",
+      "laravel-boilerplate",
+      "laravel-framework",
+      "laravel-sanctum",
+      "sanctum",
+      "sanctum-authentication",
+      "sanctum-boilerplate"
+    ]
+  },
+  {
+    "full_name": "dragonflydb/dragonfly",
+    "html_url": "https://github.com/dragonflydb/dragonfly",
+    "starred_at": "2022-05-31T16:22:20Z",
+    "description": "A modern replacement for Redis and Memcached",
+    "language": "C++",
+    "topics": [
+      "cache",
+      "cpp",
+      "database",
+      "fibers",
+      "in-memory",
+      "in-memory-database",
+      "key-value",
+      "keydb",
+      "memcached",
+      "message-broker",
+      "multi-threading",
+      "nosql",
+      "redis",
+      "valkey",
+      "vector-search"
+    ]
+  },
+  {
+    "full_name": "alufers/mitmproxy2swagger",
+    "html_url": "https://github.com/alufers/mitmproxy2swagger",
+    "starred_at": "2022-05-13T16:18:02Z",
+    "description": "Automagically reverse-engineer REST APIs via capturing traffic",
+    "language": "HTML",
+    "topics": [
+      "mitmproxy",
+      "openapi",
+      "reverse-engineering",
+      "swagger"
+    ]
+  },
+  {
+    "full_name": "rubrikinc/wachy",
+    "html_url": "https://github.com/rubrikinc/wachy",
+    "starred_at": "2022-03-30T16:19:53Z",
+    "description": "A UI for eBPF-based performance debugging",
+    "language": "Rust",
+    "topics": [
+      "ebpf",
+      "tracing"
+    ]
+  },
+  {
+    "full_name": "Wilfred/difftastic",
+    "html_url": "https://github.com/Wilfred/difftastic",
+    "starred_at": "2022-03-28T16:35:01Z",
+    "description": "a structural diff that understands syntax 🟥🟩",
+    "language": "Rust",
+    "topics": [
+      "diff",
+      "tree-sitter"
+    ]
+  },
+  {
+    "full_name": "invisibli/invisibli",
+    "html_url": "https://github.com/invisibli/invisibli",
+    "starred_at": "2022-03-05T18:39:54Z",
+    "description": "Privacy, security, ad blocking, and VPN tunneling, end to end, free, in your control, and made easy. ",
+    "language": "Shell",
+    "topics": [
+      "privacy",
+      "vpn"
+    ]
+  },
+  {
+    "full_name": "PaulJuliusMartinez/jless",
+    "html_url": "https://github.com/PaulJuliusMartinez/jless",
+    "starred_at": "2022-02-19T17:19:30Z",
+    "description": "jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.",
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "json",
+      "rust"
+    ]
+  },
+  {
+    "full_name": "openai/CLIP",
+    "html_url": "https://github.com/openai/CLIP",
+    "starred_at": "2022-02-10T04:10:49Z",
+    "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
+    "language": "Jupyter Notebook",
+    "topics": [
+      "deep-learning",
+      "machine-learning"
+    ]
+  },
+  {
+    "full_name": "openai/guided-diffusion",
+    "html_url": "https://github.com/openai/guided-diffusion",
+    "starred_at": "2022-02-10T04:09:40Z",
+    "description": null,
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "full_name": "Textualize/rich-cli",
+    "html_url": "https://github.com/Textualize/rich-cli",
+    "starred_at": "2022-02-01T16:40:58Z",
+    "description": "Rich-cli is a command line toolbox for fancy output in the terminal",
+    "language": "Python",
+    "topics": [
+      "markdown",
+      "rich",
+      "syntax-highlighting",
+      "terminal",
+      "terminal-colors"
+    ]
+  },
+  {
+    "full_name": "sergiomarotco/Network-segmentation-cheat-sheet",
+    "html_url": "https://github.com/sergiomarotco/Network-segmentation-cheat-sheet",
+    "starred_at": "2022-01-19T21:17:06Z",
+    "description": "Best practices for segmentation of the corporate network of any company",
+    "language": null,
+    "topics": [
+      "firewall-segmentation",
+      "firewalling",
+      "network-isolation",
+      "network-security",
+      "network-segmenation",
+      "network-segment",
+      "segmentation-network",
+      "segmetation-benchmarks",
+      "vlan-best-practice",
+      "vlaning"
+    ]
+  },
+  {
+    "full_name": "sjlu/popular-movies",
+    "html_url": "https://github.com/sjlu/popular-movies",
+    "starred_at": "2022-01-14T02:15:07Z",
+    "description": "Tries to create a list of popular movies based on a series of heuristics",
+    "language": "JavaScript",
+    "topics": [
+      "heuristics",
+      "movies"
+    ]
+  },
+  {
+    "full_name": "jesseduffield/lazygit",
+    "html_url": "https://github.com/jesseduffield/lazygit",
+    "starred_at": "2021-11-25T17:17:18Z",
+    "description": "simple terminal UI for git commands",
+    "language": "Go",
+    "topics": [
+      "cli",
+      "git",
+      "terminal"
+    ]
+  },
+  {
+    "full_name": "z0rc/dotfiles",
+    "html_url": "https://github.com/z0rc/dotfiles",
+    "starred_at": "2021-11-13T16:32:06Z",
+    "description": "Personal configuration for zsh, neovim, tmux and other tools",
+    "language": "Shell",
+    "topics": [
+      "dotfiles",
+      "neovim-configuration",
+      "tmux-configuration",
+      "vimrc",
+      "xdg",
+      "zshrc"
+    ]
+  },
+  {
+    "full_name": "finish06/playbooks",
+    "html_url": "https://github.com/finish06/playbooks",
+    "starred_at": "2021-10-23T17:06:15Z",
+    "description": "Ansible Homelab Playbooks",
+    "language": "Python",
+    "topics": [
+      "ansible",
+      "ansible-playbook",
+      "homelab",
+      "proxmox",
+      "proxmox-ve",
+      "proxmoxer",
+      "python3"
+    ]
+  },
+  {
+    "full_name": "aristocratos/btop",
+    "html_url": "https://github.com/aristocratos/btop",
+    "starred_at": "2021-10-20T00:00:53Z",
+    "description": "A monitor of resources",
+    "language": "C++",
+    "topics": []
+  },
+  {
+    "full_name": "daltonmenezes/aura-theme",
+    "html_url": "https://github.com/daltonmenezes/aura-theme",
+    "starred_at": "2021-10-14T15:07:09Z",
+    "description": "✨ A beautiful dark theme for your favorite apps.",
+    "language": "TypeScript",
+    "topics": [
+      "codesandbox",
+      "color-theme",
+      "dark",
+      "dark-theme",
+      "hacktoberfest",
+      "hyper",
+      "insomnia",
+      "iterm2",
+      "javascript",
+      "neovim",
+      "neovim-theme",
+      "slack",
+      "sublime-text",
+      "terminal",
+      "terminal-theme",
+      "theme",
+      "themes",
+      "visual-studio-code",
+      "vscode",
+      "windows"
+    ]
+  },
+  {
+    "full_name": "patrickloeber/ml-study-plan",
+    "html_url": "https://github.com/patrickloeber/ml-study-plan",
+    "starred_at": "2021-09-27T15:50:17Z",
+    "description": "The Ultimate FREE Machine Learning Study Plan",
+    "language": null,
+    "topics": []
+  },
+  {
+    "full_name": "qarmin/czkawka",
+    "html_url": "https://github.com/qarmin/czkawka",
+    "starred_at": "2021-05-11T03:51:38Z",
+    "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
+    "language": "Rust",
+    "topics": [
+      "cleaner",
+      "duplicates",
+      "gtk-rs",
+      "multiplatform",
+      "rust",
+      "similar-images",
+      "similar-music",
+      "similar-videos"
+    ]
+  },
+  {
+    "full_name": "brystmar/cellar-sync",
+    "html_url": "https://github.com/brystmar/cellar-sync",
+    "starred_at": "2020-09-17T01:35:40Z",
+    "description": "Homegrown cellar inventory project. Backend only. Currently on hold.",
+    "language": "Python",
+    "topics": [
+      "aws-dynamodb",
+      "beer",
+      "cellar-management",
+      "cellar-sync",
+      "cider",
+      "dynamodb",
+      "google-app-engine",
+      "google-appengine",
+      "inventory",
+      "mead",
+      "python",
+      "python3",
+      "wine"
+    ]
+  },
+  {
+    "full_name": "huginn/huginn",
+    "html_url": "https://github.com/huginn/huginn",
+    "starred_at": "2020-07-12T05:07:43Z",
+    "description": "Create agents that monitor and act on your behalf.  Your agents are standing by!",
+    "language": "Ruby",
+    "topics": [
+      "agent",
+      "automation",
+      "feed",
+      "feedgenerator",
+      "huginn",
+      "monitoring",
+      "notifications",
+      "rss",
+      "scraper",
+      "twitter",
+      "twitter-streaming",
+      "webscraping"
+    ]
+  },
+  {
+    "full_name": "sharkdp/fd",
+    "html_url": "https://github.com/sharkdp/fd",
+    "starred_at": "2020-06-25T04:19:39Z",
+    "description": "A simple, fast and user-friendly alternative to 'find'",
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "command-line",
+      "filesystem",
+      "hacktoberfest",
+      "regex",
+      "rust",
+      "search",
+      "terminal",
+      "tool"
+    ]
+  },
+  {
+    "full_name": "xuebinqin/BASNet",
+    "html_url": "https://github.com/xuebinqin/BASNet",
+    "starred_at": "2020-05-05T17:15:35Z",
+    "description": "Code for CVPR 2019 paper. BASNet: Boundary-Aware Salient Object Detection",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "full_name": "SoptikHa2/desed",
+    "html_url": "https://github.com/SoptikHa2/desed",
+    "starred_at": "2020-04-29T22:44:50Z",
+    "description": "Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.",
+    "language": "Rust",
+    "topics": [
+      "rust",
+      "sed",
+      "tui-rs",
+      "unix"
+    ]
+  },
+  {
+    "full_name": "sindresorhus/pure",
+    "html_url": "https://github.com/sindresorhus/pure",
+    "starred_at": "2020-04-05T20:34:51Z",
+    "description": "Pretty, minimal and fast ZSH prompt",
+    "language": "Shell",
+    "topics": [
+      "git",
+      "minimal",
+      "prompt",
+      "pure",
+      "shell",
+      "shell-prompt",
+      "shell-theme",
+      "terminal",
+      "theme",
+      "zsh"
+    ]
+  },
+  {
+    "full_name": "rust-lang/rustlings",
+    "html_url": "https://github.com/rust-lang/rustlings",
+    "starred_at": "2020-04-05T20:28:36Z",
+    "description": ":crab: Small exercises to get you used to reading and writing Rust code!",
+    "language": "Rust",
+    "topics": [
+      "beginner-friendly",
+      "exercises",
+      "rust",
+      "rustlings"
+    ]
+  },
+  {
+    "full_name": "mxgmn/WaveFunctionCollapse",
+    "html_url": "https://github.com/mxgmn/WaveFunctionCollapse",
+    "starred_at": "2020-03-08T04:46:14Z",
+    "description": "Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics",
+    "language": "C#",
+    "topics": [
+      "algorithm",
+      "csharp",
+      "gamedev",
+      "machine-learning",
+      "procedural-generation",
+      "wfc"
+    ]
+  },
+  {
+    "full_name": "gilbertchen/duplicacy",
+    "html_url": "https://github.com/gilbertchen/duplicacy",
+    "starred_at": "2019-04-06T02:58:28Z",
+    "description": "A new generation cloud backup tool ",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "full_name": "NullArray/AutoSploit",
+    "html_url": "https://github.com/NullArray/AutoSploit",
+    "starred_at": "2018-01-31T21:42:20Z",
+    "description": "Automated Mass Exploiter",
+    "language": "Python",
+    "topics": [
+      "automation",
+      "exploit",
+      "exploitation",
+      "metasploit",
+      "offsec",
+      "python",
+      "security",
+      "security-tools"
+    ]
+  },
+  {
+    "full_name": "FiloSottile/captive-browser",
+    "html_url": "https://github.com/FiloSottile/captive-browser",
+    "starred_at": "2017-09-23T22:38:54Z",
+    "description": "A dedicated Chrome instance to log into captive portals without messing with DNS settings.",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "full_name": "herrbischoff/awesome-macos-command-line",
+    "html_url": "https://github.com/herrbischoff/awesome-macos-command-line",
+    "starred_at": "2017-02-20T03:06:53Z",
+    "description": "Use your macOS terminal shell to do awesome things.",
+    "language": null,
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "list",
+      "macos",
+      "macosx",
+      "shell",
+      "terminal"
+    ]
+  },
+  {
+    "full_name": "awslabs/route53-dynamic-dns-with-lambda",
+    "html_url": "https://github.com/awslabs/route53-dynamic-dns-with-lambda",
+    "starred_at": "2016-07-21T19:40:55Z",
+    "description": "A Dynamic DNS system built with API Gateway, Lambda & Route 53. ",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "full_name": "mathiasbynens/dotfiles",
+    "html_url": "https://github.com/mathiasbynens/dotfiles",
+    "starred_at": "2016-03-14T19:13:15Z",
+    "description": ":wrench: .files, including ~/.macos — sensible hacker defaults for macOS",
+    "language": "Shell",
+    "topics": [
+      "bash",
+      "dotfiles",
+      "macos"
+    ]
+  },
+  {
+    "full_name": "arturoherrero/command-line-one-liners",
+    "html_url": "https://github.com/arturoherrero/command-line-one-liners",
+    "starred_at": "2013-12-04T17:42:05Z",
+    "description": "Command line one-liners.",
+    "language": null,
+    "topics": [
+      "bash",
+      "command-line",
+      "one-liners"
+    ]
+  },
+  {
+    "full_name": "moefuerst/osx-auto-vpn",
+    "html_url": "https://github.com/moefuerst/osx-auto-vpn",
+    "starred_at": "2013-10-22T20:59:37Z",
+    "description": "automatically connect to a vpn if you're not at home",
+    "language": null,
+    "topics": []
+  },
+  {
+    "full_name": "mitmproxy/pathod",
+    "html_url": "https://github.com/mitmproxy/pathod",
+    "starred_at": "2013-05-09T16:35:44Z",
+    "description": "🗃️ This repository has been integrated into mitmproxy/mitmproxy.",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "full_name": "optional-is/Calendar-Business-Cards",
+    "html_url": "https://github.com/optional-is/Calendar-Business-Cards",
+    "starred_at": "2012-06-14T11:27:23Z",
+    "description": "A full year's calendar encoded onto a single business card. Useful to find out what day of the week any day of the year is on.",
+    "language": "PHP",
+    "topics": []
+  },
+  {
+    "full_name": "selfspy/selfspy",
+    "html_url": "https://github.com/selfspy/selfspy",
+    "starred_at": "2012-03-13T16:56:20Z",
+    "description": "Log everything you do on the computer, for statistics, future reference and all-around fun!",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "full_name": "couchbaselabs/php-ext-couchbase",
+    "html_url": "https://github.com/couchbaselabs/php-ext-couchbase",
+    "starred_at": "2011-08-22T20:47:01Z",
+    "description": "A PHP extension wrapping libcouchbase (work in progress)",
+    "language": "C",
+    "topics": []
+  },
+  {
+    "full_name": "jperras/mongo-profiling",
+    "html_url": "https://github.com/jperras/mongo-profiling",
+    "starred_at": "2011-05-20T15:30:43Z",
+    "description": "A set of command line tools to help diagnose and profile MongoDB in an intelligent way.",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "full_name": "silentbicycle/sample",
+    "html_url": "https://github.com/silentbicycle/sample",
+    "starred_at": "2011-05-07T17:27:50Z",
+    "description": "filter for random sampling of input",
+    "language": "C",
+    "topics": []
+  },
+  {
+    "full_name": "andreiz/php-memcached",
+    "html_url": "https://github.com/andreiz/php-memcached",
+    "starred_at": "2011-03-13T18:44:28Z",
+    "description": "memcached extension based on libmemcached library",
+    "language": "C",
+    "topics": []
+  },
+  {
+    "full_name": "nelhage/reptyr",
+    "html_url": "https://github.com/nelhage/reptyr",
+    "starred_at": "2011-01-14T00:33:50Z",
+    "description": "Reparent a running program to a new terminal",
+    "language": "C",
+    "topics": []
+  },
+  {
+    "full_name": "phacility/libphutil",
+    "html_url": "https://github.com/phacility/libphutil",
+    "starred_at": "2011-01-05T19:27:34Z",
+    "description": "A collection of PHP utility classes",
+    "language": null,
+    "topics": [
+      "libphutil",
+      "php"
+    ]
+  },
+  {
+    "full_name": "infochimps-labs/wonderdog",
+    "html_url": "https://github.com/infochimps-labs/wonderdog",
+    "starred_at": "2010-11-15T06:12:22Z",
+    "description": "Bulk loading for elastic search",
+    "language": "Java",
+    "topics": []
+  },
+  {
+    "full_name": "andreiz/pyes",
+    "html_url": "https://github.com/andreiz/pyes",
+    "starred_at": "2010-10-27T17:47:47Z",
+    "description": "Python connector for ElasticSearch",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "full_name": "php-memcached-dev/php-memcached",
+    "html_url": "https://github.com/php-memcached-dev/php-memcached",
+    "starred_at": "2010-10-07T18:41:45Z",
+    "description": "memcached extension based on libmemcached library",
+    "language": "C",
+    "topics": []
+  },
+  {
+    "full_name": "achiurizo/consular",
+    "html_url": "https://github.com/achiurizo/consular",
+    "starred_at": "2010-09-14T02:02:19Z",
+    "description": "Terminal automation",
+    "language": "Ruby",
+    "topics": []
+  },
+  {
+    "full_name": "jperras/dotfiles",
+    "html_url": "https://github.com/jperras/dotfiles",
+    "starred_at": "2010-08-10T18:00:01Z",
+    "description": "Carefully crafted, curated and somewhat Python-oriented Vim development environment",
+    "language": "Vim script",
+    "topics": []
+  },
+  {
+    "full_name": "aparo/pyes",
+    "html_url": "https://github.com/aparo/pyes",
+    "starred_at": "2010-07-22T16:33:51Z",
+    "description": "Python connector for ElasticSearch - the pythonic way to use ElasticSearch",
+    "language": "Python",
+    "topics": [
+      "elasticsearch",
+      "pyes",
+      "python"
+    ]
+  },
+  {
+    "full_name": "andreiz/prep",
+    "html_url": "https://github.com/andreiz/prep",
+    "starred_at": "2010-07-22T16:26:02Z",
+    "description": "PHP extension that allows compile-time code pre-processing",
+    "language": "C",
+    "topics": []
+  },
+  {
+    "full_name": "formspring/flake",
+    "html_url": "https://github.com/formspring/flake",
+    "starred_at": "2010-06-16T20:11:50Z",
+    "description": "Python implementation of Snowflake, a network service for generating unique 64bit IDs at scale",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "full_name": "andreiz/vim-settings",
+    "html_url": "https://github.com/andreiz/vim-settings",
+    "starred_at": "2010-06-02T17:52:46Z",
+    "description": "A time-tested collection of Vim settings and plugins",
+    "language": "VimL",
+    "topics": []
+  },
+  {
+    "full_name": "apenwarr/sshuttle",
+    "html_url": "https://github.com/apenwarr/sshuttle",
+    "starred_at": "2010-05-02T06:50:16Z",
+    "description": "Wrong project!  You should head over to http://github.com/sshuttle/sshuttle",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "full_name": "pyelasticsearch/pyelasticsearch",
+    "html_url": "https://github.com/pyelasticsearch/pyelasticsearch",
+    "starred_at": "2010-02-24T04:19:00Z",
+    "description": "python elasticsearch client",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "full_name": "simplegeo/Services_SimpleGeo",
+    "html_url": "https://github.com/simplegeo/Services_SimpleGeo",
+    "starred_at": "2010-02-04T00:29:30Z",
+    "description": "A PEAR package for SimpleGeo's API",
+    "language": "PHP",
+    "topics": []
+  },
+  {
+    "full_name": "simplegeo/python-simplegeo",
+    "html_url": "https://github.com/simplegeo/python-simplegeo",
+    "starred_at": "2010-01-26T02:20:29Z",
+    "description": "A client interface for SimpleGeo's API.",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "full_name": "andreiz/php-zookeeper",
+    "html_url": "https://github.com/andreiz/php-zookeeper",
+    "starred_at": "2009-09-28T19:23:18Z",
+    "description": "A PHP extension for interfacing with Apache ZooKeeper",
+    "language": "C",
+    "topics": []
+  },
+  {
+    "full_name": "probablycorey/wax",
+    "html_url": "https://github.com/probablycorey/wax",
+    "starred_at": "2009-06-29T01:57:35Z",
+    "description": "Wax is now being maintained by alibaba",
+    "language": "C",
+    "topics": []
+  },
+  {
+    "full_name": "andreiz/bloomy",
+    "html_url": "https://github.com/andreiz/bloomy",
+    "starred_at": "2009-03-18T17:55:22Z",
+    "description": "PHP extension implementing Bloom filters",
+    "language": "C",
+    "topics": []
+  },
+  {
+    "full_name": "phadej/php-memcached",
+    "html_url": "https://github.com/phadej/php-memcached",
+    "starred_at": "2009-02-02T11:19:19Z",
+    "description": "memcached extension based on libmemcached library",
+    "language": "Shell",
+    "topics": []
+  },
+  {
+    "full_name": "kajidai/php-libmemcached",
+    "html_url": "https://github.com/kajidai/php-libmemcached",
+    "starred_at": "2008-12-16T18:14:20Z",
+    "description": "php-libmemcached is a php extension for libmemcached(new memcached client)",
+    "language": null,
+    "topics": []
+  }
+]
