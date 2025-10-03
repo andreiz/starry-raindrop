@@ -69,9 +69,12 @@ export async function fetchStarsFromGitHub(
 
 /**
  * Archive starred repos to local JSON file and commit changes
- * Returns the current stars from GitHub for reuse
+ * Returns the current stars from GitHub and unstarred repos for cleanup
  */
-export async function archiveStars(octokit: Octokit): Promise<StarredRepo[]> {
+export async function archiveStars(octokit: Octokit): Promise<{
+  currentStars: StarredRepo[];
+  unstarredRepos: StarredRepo[];
+}> {
   console.log(new Date(), "Archiving starred repos...");
 
   // Load existing stars
@@ -80,19 +83,29 @@ export async function archiveStars(octokit: Octokit): Promise<StarredRepo[]> {
 
   // Fetch current stars from GitHub
   const currentStars = await fetchStarsFromGitHub(octokit);
+  const currentUrls = new Set(currentStars.map((s) => s.html_url));
 
   // Identify new stars
   const newStars = currentStars.filter((s) => !existingUrls.has(s.html_url));
 
-  if (newStars.length === 0) {
-    console.log(new Date(), "No new starred repos to archive");
-    return currentStars;
+  // Identify unstarred repos (exist in archive but not in current stars)
+  const unstarredRepos = existingStars.filter((s) => !currentUrls.has(s.html_url));
+
+  if (newStars.length === 0 && unstarredRepos.length === 0) {
+    console.log(new Date(), "No new starred repos or unstarred repos to process");
+    return { currentStars, unstarredRepos: [] };
   }
 
-  console.log(new Date(), `Found ${newStars.length} new starred repos`);
+  if (newStars.length > 0) {
+    console.log(new Date(), `Found ${newStars.length} new starred repos`);
+  }
 
-  // Merge and sort by starred_at (descending - most recent first)
-  const allStars = [...newStars, ...existingStars].sort(
+  if (unstarredRepos.length > 0) {
+    console.log(new Date(), `Found ${unstarredRepos.length} unstarred repos to remove`);
+  }
+
+  // Sort by starred_at (descending - most recent first)
+  const allStars = currentStars.sort(
     (a, b) => new Date(b.starred_at).getTime() - new Date(a.starred_at).getTime()
   );
 
@@ -103,7 +116,14 @@ export async function archiveStars(octokit: Octokit): Promise<StarredRepo[]> {
   // Commit changes
   try {
     const today = new Date().toISOString().split("T")[0];
-    const commitMessage = `Archive ${newStars.length} new starred repo${newStars.length > 1 ? "s" : ""} (${today})`;
+    const parts = [];
+    if (newStars.length > 0) {
+      parts.push(`+${newStars.length} starred`);
+    }
+    if (unstarredRepos.length > 0) {
+      parts.push(`-${unstarredRepos.length} unstarred`);
+    }
+    const commitMessage = `Archive: ${parts.join(", ")} (${today})`;
 
     // Configure git user identity if not already set
     execSync('git config user.email "github-actions[bot]@users.noreply.github.com"', { stdio: "inherit" });
@@ -117,5 +137,5 @@ export async function archiveStars(octokit: Octokit): Promise<StarredRepo[]> {
     console.error(new Date(), `Failed to commit changes: ${error.message}`);
   }
 
-  return currentStars;
+  return { currentStars, unstarredRepos };
 }
