@@ -4,7 +4,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a TypeScript application that syncs GitHub starred repositories to a Raindrop.io collection. It fetches all starred repos from GitHub (including star dates and metadata) and creates corresponding bookmarks in Raindrop.io, skipping duplicates.
+This is a TypeScript application that syncs GitHub starred repositories to a Raindrop.io collection. It:
+1. Fetches all starred repos from GitHub (including star dates and metadata)
+2. Archives them to a local JSON file (`data/starred-repos.json`)
+3. Creates corresponding bookmarks in Raindrop.io, skipping duplicates
+4. Removes unstarred repos from both Raindrop.io and the local archive
+5. Automatically commits archive changes to git
 
 ## Common Commands
 
@@ -28,19 +33,37 @@ This is a TypeScript application that syncs GitHub starred repositories to a Rai
 - **src/cron.ts** - Cron entry point (runs main() every hour at minute 0)
 - **src/script.ts** - Alternative single run entry (used by GitHub Actions)
 
-### Core Logic (src/main.ts)
-1. Authenticates with GitHub using Octokit and Raindrop.io using axios
-2. Fetches all starred repos with pagination (uses `application/vnd.github.v3.star+json` header to get `starred_at` timestamp)
-3. Transforms stars into Raindrop items with:
+### Core Modules
+
+#### src/archiver.ts
+Handles local archiving and git operations:
+- `fetchStarsFromGitHub()` - Fetches all starred repos using Octokit pagination with `application/vnd.github.v3.star+json` header
+- `archiveStars()` - Main archiving function that:
+  - Loads existing stars from `data/starred-repos.json`
+  - Fetches current stars from GitHub
+  - Identifies new stars and unstarred repos (repos in archive but not in current stars)
+  - Saves all current stars sorted by `starred_at` (descending) to JSON file
+  - Commits changes to git with message format: `Archive: +N starred, -M unstarred (YYYY-MM-DD)`
+  - Returns both current stars and unstarred repos for cleanup
+- Configures git user identity as `github-actions[bot]` before committing
+
+#### src/main.ts
+Main sync orchestration:
+1. Calls `archiveStars()` to archive stars locally and get current/unstarred repos
+2. Transforms stars into Raindrop items with:
    - Title: repo full name
    - Link: repo HTML URL
    - Tags: always includes `#github`
    - Note: language and topics in format `topics: <language>, <topic1>, <topic2>...`
    - Created date: starred_at timestamp
    - Excerpt: repo description
-4. Processes in chunks of 100 repos
-5. For each chunk, checks existing URLs via `/import/url/exists` endpoint
-6. Only imports non-duplicate repos via `/raindrops` batch endpoint
+3. Processes in chunks of 100 repos
+4. For each chunk, checks existing URLs via `/import/url/exists` endpoint
+5. Only imports non-duplicate repos via `/raindrops` batch endpoint
+6. Deletes unstarred repos from Raindrop.io by:
+   - Searching for each unstarred repo URL in the collection
+   - Finding exact URL match
+   - Deleting the raindrop via `/raindrop/{id}` endpoint
 
 ### Environment Variables
 Required environment variables (defined in `.env` or GitHub Actions secrets):
