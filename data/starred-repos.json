@@ -1,5 +1,18 @@
 [
   {
+    "full_name": "wojciech-kulik/FlashSpace",
+    "html_url": "https://github.com/wojciech-kulik/FlashSpace",
+    "starred_at": "2025-10-03T16:51:43Z",
+    "description": "FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡",
+    "language": "Swift",
+    "topics": [
+      "apple",
+      "macos",
+      "swift",
+      "window-manager"
+    ]
+  },
+  {
     "full_name": "centminmod/my-claude-code-setup",
     "html_url": "https://github.com/centminmod/my-claude-code-setup",
     "starred_at": "2025-10-03T16:02:13Z",
