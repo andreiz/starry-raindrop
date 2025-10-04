@@ -1,5 +1,26 @@
 [
   {
+    "full_name": "FelixKratz/SketchyBar",
+    "html_url": "https://github.com/FelixKratz/SketchyBar",
+    "starred_at": "2025-10-03T17:07:23Z",
+    "description": "A highly customizable macOS status bar replacement",
+    "language": "C",
+    "topics": [
+      "bar",
+      "customization",
+      "darwin",
+      "macos",
+      "ricing",
+      "shell-scripts",
+      "sketchybar",
+      "status",
+      "statusbar",
+      "tiling-window-manager",
+      "ui",
+      "yabai"
+    ]
+  },
+  {
     "full_name": "wojciech-kulik/FlashSpace",
     "html_url": "https://github.com/wojciech-kulik/FlashSpace",
     "starred_at": "2025-10-03T17:06:13Z",
