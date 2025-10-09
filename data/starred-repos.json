@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "fathulfahmy/aio-usb-drive",
+    "html_url": "https://github.com/fathulfahmy/aio-usb-drive",
+    "starred_at": "2025-10-08T15:42:52Z",
+    "description": "A curated collection of useful to have programs on a multiboot USB drive",
+    "language": null,
+    "topics": [
+      "all-in-one-tool",
+      "all-in-one-toolkit",
+      "iso",
+      "multiboot",
+      "multiboot-usb",
+      "multibootusb",
+      "usb",
+      "usb-drive",
+      "ventoy"
+    ]
+  },
+  {
     "full_name": "FelixKratz/SketchyBar",
     "html_url": "https://github.com/FelixKratz/SketchyBar",
     "starred_at": "2025-10-03T17:07:23Z",
@@ -996,7 +1014,7 @@
     "html_url": "https://github.com/langchain-ai/langchain",
     "starred_at": "2023-11-06T16:27:41Z",
     "description": "🦜🔗 Build context-aware reasoning applications",
-    "language": "Jupyter Notebook",
+    "language": "Python",
     "topics": [
       "agents",
       "ai",
