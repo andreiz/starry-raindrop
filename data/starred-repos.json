@@ -1,10 +1,25 @@
 [
   {
+    "full_name": "ITSpecialist111/ai_automation_suggester",
+    "html_url": "https://github.com/ITSpecialist111/ai_automation_suggester",
+    "starred_at": "2025-11-19T15:59:39Z",
+    "description": "This custom Home Assistant integration automatically scans your entities, detects new devices, and uses AI (via cloud and local APIs) to suggest tailored automations. It supports multiple AI providers, including OpenAI, Anthropic, Google, Groq, Ollama and more! The integration provides automation suggestions via HASS notifications",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "automatic-suggestions",
+      "automations",
+      "builder-design-pattern",
+      "home-assistant",
+      "suggester"
+    ]
+  },
+  {
     "full_name": "github/spec-kit",
     "html_url": "https://github.com/github/spec-kit",
     "starred_at": "2025-11-05T18:27:40Z",
     "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-    "language": "Shell",
+    "language": "Python",
     "topics": [
       "ai",
       "copilot",
@@ -448,12 +463,11 @@
     "full_name": "fosrl/pangolin",
     "html_url": "https://github.com/fosrl/pangolin",
     "starred_at": "2025-02-19T16:31:43Z",
-    "description": "Identity-based, multi-site remote access platform using WireGuard®",
+    "description": "Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI",
     "language": "TypeScript",
     "topics": [
       "crowdsec",
       "docker",
-      "hacktoberfest",
       "home-lab",
       "identity-management",
       "iot",
@@ -661,7 +675,7 @@
     "html_url": "https://github.com/benbjohnson/litestream",
     "starred_at": "2024-10-22T16:11:11Z",
     "description": "Streaming replication for SQLite.",
-    "language": "C",
+    "language": "Go",
     "topics": [
       "replication",
       "s3",
@@ -696,7 +710,7 @@
     "full_name": "BerriAI/litellm",
     "html_url": "https://github.com/BerriAI/litellm",
     "starred_at": "2024-10-01T07:46:23Z",
-    "description": "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]",
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
     "language": "Python",
     "topics": [
       "ai-gateway",
