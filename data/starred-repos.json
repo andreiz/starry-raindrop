@@ -1,5 +1,13 @@
 [
   {
+    "full_name": "eudoxia0/hashcards",
+    "html_url": "https://github.com/eudoxia0/hashcards",
+    "starred_at": "2025-12-21T15:41:33Z",
+    "description": "A plain text-based spaced repetition system.",
+    "language": "Rust",
+    "topics": []
+  },
+  {
     "full_name": "ITSpecialist111/ai_automation_suggester",
     "html_url": "https://github.com/ITSpecialist111/ai_automation_suggester",
     "starred_at": "2025-11-19T15:59:39Z",
@@ -35,7 +43,7 @@
     "html_url": "https://github.com/obra/superpowers",
     "starred_at": "2025-10-13T15:29:14Z",
     "description": "Claude Code superpowers: core skills library",
-    "language": "JavaScript",
+    "language": "Shell",
     "topics": []
   },
   {
@@ -213,7 +221,8 @@
       "ai",
       "macos",
       "mcp",
-      "screenshots"
+      "screenshots",
+      "swift"
     ]
   },
   {
@@ -430,7 +439,7 @@
     "html_url": "https://github.com/danielmiessler/Fabric",
     "starred_at": "2025-04-08T16:45:12Z",
     "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
-    "language": "JavaScript",
+    "language": "Go",
     "topics": [
       "ai",
       "augmentation",
@@ -463,7 +472,7 @@
     "full_name": "fosrl/pangolin",
     "html_url": "https://github.com/fosrl/pangolin",
     "starred_at": "2025-02-19T16:31:43Z",
-    "description": "Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI",
+    "description": "Identity-aware VPN and proxy for remote access to anything, anywhere.",
     "language": "TypeScript",
     "topics": [
       "crowdsec",
@@ -478,7 +487,11 @@
       "self-hosted",
       "single-sign-on",
       "traefik",
-      "wireguard"
+      "vpn",
+      "wireguard",
+      "zero-trust",
+      "zero-trust-network-access",
+      "ztna"
     ]
   },
   {
@@ -1018,8 +1031,8 @@
     "full_name": "f/awesome-chatgpt-prompts",
     "html_url": "https://github.com/f/awesome-chatgpt-prompts",
     "starred_at": "2023-12-16T23:52:43Z",
-    "description": "This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.",
-    "language": "JavaScript",
+    "description": "Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+    "language": "TypeScript",
     "topics": [
       "bots",
       "chatbot",
