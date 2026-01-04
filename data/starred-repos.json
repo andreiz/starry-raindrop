@@ -1,5 +1,34 @@
 [
   {
+    "full_name": "tomasf/Cadova",
+    "html_url": "https://github.com/tomasf/Cadova",
+    "starred_at": "2026-01-03T20:19:07Z",
+    "description": "Swift DSL for parametric 3D modeling",
+    "language": "Swift",
+    "topics": [
+      "3d",
+      "cad",
+      "dsl",
+      "swift"
+    ]
+  },
+  {
+    "full_name": "abetusk/neatocal",
+    "html_url": "https://github.com/abetusk/neatocal",
+    "starred_at": "2026-01-03T16:02:44Z",
+    "description": "A single page printable calendar",
+    "language": "JavaScript",
+    "topics": []
+  },
+  {
+    "full_name": "pranshuparmar/witr",
+    "html_url": "https://github.com/pranshuparmar/witr",
+    "starred_at": "2026-01-03T15:59:07Z",
+    "description": "Why is this running?",
+    "language": "Go",
+    "topics": []
+  },
+  {
     "full_name": "browserbase/stagehand",
     "html_url": "https://github.com/browserbase/stagehand",
     "starred_at": "2025-12-26T15:24:34Z",
@@ -133,7 +162,7 @@
     "full_name": "unslothai/unsloth",
     "html_url": "https://github.com/unslothai/unsloth",
     "starred_at": "2025-09-26T13:07:26Z",
-    "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.",
+    "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.",
     "language": "Python",
     "topics": [
       "agent",
@@ -197,7 +226,7 @@
     "full_name": "9001/copyparty",
     "html_url": "https://github.com/9001/copyparty",
     "starred_at": "2025-08-04T17:42:02Z",
-    "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps",
+    "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file",
     "language": "Python",
     "topics": [
       "copyparty",
@@ -1088,15 +1117,15 @@
       "agents",
       "ai",
       "ai-agents",
-      "ai-agents-framework",
-      "aiagentframework",
       "anthropic",
       "chatgpt",
+      "deepagents",
       "enterprise",
       "framework",
       "gemini",
       "generative-ai",
       "langchain",
+      "langgraph",
       "llm",
       "multiagent",
       "open-source",
