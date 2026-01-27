@@ -100,7 +100,7 @@
     "full_name": "obra/superpowers",
     "html_url": "https://github.com/obra/superpowers",
     "starred_at": "2025-10-13T15:29:14Z",
-    "description": "Claude Code superpowers: core skills library",
+    "description": "An agentic skills framework & software development methodology that works.",
     "language": "Shell",
     "topics": []
   },
@@ -270,8 +270,8 @@
     ]
   },
   {
-    "full_name": "steipete/Peekaboo",
-    "html_url": "https://github.com/steipete/Peekaboo",
+    "full_name": "moltbot/Peekaboo",
+    "html_url": "https://github.com/moltbot/Peekaboo",
     "starred_at": "2025-07-03T15:30:14Z",
     "description": "Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.",
     "language": "Swift",
@@ -304,9 +304,10 @@
     "full_name": "hesreallyhim/awesome-claude-code",
     "html_url": "https://github.com/hesreallyhim/awesome-claude-code",
     "starred_at": "2025-06-21T15:01:58Z",
-    "description": "A curated list of awesome commands, files, and workflows for Claude Code",
+    "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
     "language": "Python",
     "topics": [
+      "agent-skills",
       "agentic-code",
       "agentic-coding",
       "ai-workflow-optimization",
@@ -321,7 +322,9 @@
       "claude-code",
       "coding-agent",
       "coding-agents",
-      "coding-assistant"
+      "coding-assistant",
+      "coding-assistants",
+      "llm"
     ]
   },
   {
@@ -688,7 +691,7 @@
     "full_name": "valentinfrlch/ha-llmvision",
     "html_url": "https://github.com/valentinfrlch/ha-llmvision",
     "starred_at": "2024-11-23T22:16:30Z",
-    "description": "Let Home Assistant see!",
+    "description": "Visual Intelligence for your Home.",
     "language": "Python",
     "topics": [
       "ai",
@@ -1092,11 +1095,24 @@
     "description": "Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "language": "TypeScript",
     "topics": [
-      "bots",
-      "chatbot",
+      "ai",
+      "artificial-intelligence",
+      "awesome-list",
       "chatgpt",
-      "chatgpt-api",
-      "language"
+      "chatgpt-prompts",
+      "claude",
+      "gemini",
+      "gpt",
+      "gpt-4",
+      "llm",
+      "machine-learning",
+      "nextjs",
+      "open-source",
+      "openai",
+      "prompt-engineering",
+      "prompts",
+      "prompts-chat",
+      "typescript"
     ]
   },
   {
