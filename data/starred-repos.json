@@ -270,8 +270,8 @@
     ]
   },
   {
-    "full_name": "moltbot/Peekaboo",
-    "html_url": "https://github.com/moltbot/Peekaboo",
+    "full_name": "steipete/Peekaboo",
+    "html_url": "https://github.com/steipete/Peekaboo",
     "starred_at": "2025-07-03T15:30:14Z",
     "description": "Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.",
     "language": "Swift",
