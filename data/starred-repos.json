@@ -1089,10 +1089,10 @@
     ]
   },
   {
-    "full_name": "f/awesome-chatgpt-prompts",
-    "html_url": "https://github.com/f/awesome-chatgpt-prompts",
+    "full_name": "f/prompts.chat",
+    "html_url": "https://github.com/f/prompts.chat",
     "starred_at": "2023-12-16T23:52:43Z",
-    "description": "Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+    "description": "a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "language": "TypeScript",
     "topics": [
       "ai",
