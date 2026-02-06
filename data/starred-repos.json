@@ -1,5 +1,21 @@
 [
   {
+    "full_name": "philippb/claude-homeassistant",
+    "html_url": "https://github.com/philippb/claude-homeassistant",
+    "starred_at": "2026-02-05T16:00:41Z",
+    "description": "Allows to program your home automations in plain english via Claude Code on your computer.",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "full_name": "homeassistant-ai/skills",
+    "html_url": "https://github.com/homeassistant-ai/skills",
+    "starred_at": "2026-02-05T15:57:19Z",
+    "description": "Home Assistant skills for agents",
+    "language": null,
+    "topics": []
+  },
+  {
     "full_name": "DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets",
     "html_url": "https://github.com/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets",
     "starred_at": "2026-01-08T19:21:09Z",
@@ -1093,7 +1109,7 @@
     "html_url": "https://github.com/f/prompts.chat",
     "starred_at": "2023-12-16T23:52:43Z",
     "description": "a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-    "language": "TypeScript",
+    "language": "HTML",
     "topics": [
       "ai",
       "artificial-intelligence",
@@ -1827,8 +1843,9 @@
     "topics": [
       "cleaner",
       "duplicates",
-      "gtk-rs",
       "multiplatform",
+      "optimization",
+      "optimizer",
       "rust",
       "similar-images",
       "similar-music",
