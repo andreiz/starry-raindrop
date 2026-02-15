@@ -1,5 +1,20 @@
 [
   {
+    "full_name": "wardgate/wardgate",
+    "html_url": "https://github.com/wardgate/wardgate",
+    "starred_at": "2026-02-14T16:33:36Z",
+    "description": "Security gateway for AI agents - credential-isolated API proxying and policy-gated remote execution (conclaves). Reduce the blast radius!",
+    "language": "Go",
+    "topics": [
+      "agentic-ai",
+      "agentic-workflow",
+      "api-gateway",
+      "openclaw",
+      "security",
+      "tool-gateway"
+    ]
+  },
+  {
     "full_name": "shpongledsummer/atmospheric-weather-card",
     "html_url": "https://github.com/shpongledsummer/atmospheric-weather-card",
     "starred_at": "2026-02-09T05:00:44Z",
@@ -715,7 +730,7 @@
     "full_name": "valentinfrlch/ha-llmvision",
     "html_url": "https://github.com/valentinfrlch/ha-llmvision",
     "starred_at": "2024-11-23T22:16:30Z",
-    "description": "Visual Intelligence for your Home.",
+    "description": "Visual Intelligence for your home.",
     "language": "Python",
     "topics": [
       "ai",
