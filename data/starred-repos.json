@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "joelhawksley/timeframe",
+    "html_url": "https://github.com/joelhawksley/timeframe",
+    "starred_at": "2026-03-06T18:37:57Z",
+    "description": "An e-paper calendar, weather, and smart home family dashboard",
+    "language": "Ruby",
+    "topics": [
+      "epaper",
+      "epaper-displays",
+      "visionect"
+    ]
+  },
+  {
     "full_name": "wardgate/wardgate",
     "html_url": "https://github.com/wardgate/wardgate",
     "starred_at": "2026-02-14T16:33:36Z",
@@ -20,7 +32,11 @@
     "starred_at": "2026-02-09T05:00:44Z",
     "description": "Animated weather card for Home Assistant",
     "language": "JavaScript",
-    "topics": []
+    "topics": [
+      "lovelace",
+      "weather",
+      "weather-forecast"
+    ]
   },
   {
     "full_name": "philippb/claude-homeassistant",
@@ -575,18 +591,19 @@
     "description": "Identity-aware VPN and proxy for remote access to anything, anywhere.",
     "language": "TypeScript",
     "topics": [
-      "crowdsec",
-      "docker",
-      "home-lab",
       "identity-management",
       "iot",
-      "letsencrypt",
+      "nat-traversal",
       "oidc",
+      "pam",
+      "private-access",
       "proxy",
+      "remote-access",
       "reverse-proxy",
       "self-hosted",
       "single-sign-on",
-      "traefik",
+      "ssh",
+      "tunneling",
       "vpn",
       "wireguard",
       "zero-trust",
@@ -730,14 +747,17 @@
     "full_name": "valentinfrlch/ha-llmvision",
     "html_url": "https://github.com/valentinfrlch/ha-llmvision",
     "starred_at": "2024-11-23T22:16:30Z",
-    "description": "Visual Intelligence for your home.",
+    "description": "Visual intelligence for your home.",
     "language": "Python",
     "topics": [
       "ai",
+      "cctv-detection",
       "hacs-integration",
       "home-assistant",
       "llm",
       "multimodal",
+      "notifications",
+      "smart-home",
       "vision"
     ]
   },
@@ -1131,7 +1151,7 @@
     "full_name": "f/prompts.chat",
     "html_url": "https://github.com/f/prompts.chat",
     "starred_at": "2023-12-16T23:52:43Z",
-    "description": "a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "language": "HTML",
     "topics": [
       "ai",
@@ -1180,7 +1200,7 @@
     "full_name": "langchain-ai/langchain",
     "html_url": "https://github.com/langchain-ai/langchain",
     "starred_at": "2023-11-06T16:27:41Z",
-    "description": "🦜🔗 The platform for reliable agents.",
+    "description": "The agent engineering platform",
     "language": "Python",
     "topics": [
       "agents",
