@@ -1,5 +1,26 @@
 [
   {
+    "full_name": "batrachianai/toad",
+    "html_url": "https://github.com/batrachianai/toad",
+    "starred_at": "2026-03-07T16:50:28Z",
+    "description": "A unified interface for AI in your terminal.",
+    "language": "Python",
+    "topics": [
+      "agents-ui",
+      "ai",
+      "textual",
+      "tui"
+    ]
+  },
+  {
+    "full_name": "mitsuhiko/agent-stuff",
+    "html_url": "https://github.com/mitsuhiko/agent-stuff",
+    "starred_at": "2026-03-07T16:44:46Z",
+    "description": "These are commands I use with agents, mostly Claude",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
     "full_name": "joelhawksley/timeframe",
     "html_url": "https://github.com/joelhawksley/timeframe",
     "starred_at": "2026-03-06T18:37:57Z",
