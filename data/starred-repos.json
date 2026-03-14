@@ -1,5 +1,30 @@
 [
   {
+    "full_name": "googleworkspace/cli",
+    "html_url": "https://github.com/googleworkspace/cli",
+    "starred_at": "2026-03-13T15:06:24Z",
+    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+    "language": "Rust",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "automation",
+      "cli",
+      "discovery-api",
+      "gemini-cli-extension",
+      "google-admin",
+      "google-api",
+      "google-calendar",
+      "google-chat",
+      "google-docs",
+      "google-drive",
+      "google-sheets",
+      "google-workspace",
+      "oauth2",
+      "rust"
+    ]
+  },
+  {
     "full_name": "eugene1g/agent-safehouse",
     "html_url": "https://github.com/eugene1g/agent-safehouse",
     "starred_at": "2026-03-12T16:36:19Z",
@@ -31,6 +56,10 @@
     "topics": [
       "agents-ui",
       "ai",
+      "claude",
+      "claude-code",
+      "codex-cli",
+      "copilot",
       "textual",
       "tui"
     ]
