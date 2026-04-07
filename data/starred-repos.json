@@ -59,6 +59,7 @@
       "claude",
       "claude-code",
       "codex-cli",
+      "commercial-license",
       "copilot",
       "textual",
       "tui"
@@ -73,8 +74,8 @@
     "topics": []
   },
   {
-    "full_name": "joelhawksley/timeframe",
-    "html_url": "https://github.com/joelhawksley/timeframe",
+    "full_name": "timeframe/timeframe",
+    "html_url": "https://github.com/timeframe/timeframe",
     "starred_at": "2026-03-06T18:37:57Z",
     "description": "An e-paper calendar, weather, and smart home family dashboard",
     "language": "Ruby",
@@ -174,7 +175,7 @@
     "full_name": "browserbase/stagehand",
     "html_url": "https://github.com/browserbase/stagehand",
     "starred_at": "2025-12-26T15:24:34Z",
-    "description": "The AI Browser Automation Framework",
+    "description": "The SDK For Browser Agents",
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -289,7 +290,7 @@
     "html_url": "https://github.com/centminmod/my-claude-code-setup",
     "starred_at": "2025-10-03T16:02:13Z",
     "description": "Shared starter template configuration and CLAUDE.md memory bank system for Claude Code",
-    "language": null,
+    "language": "Python",
     "topics": [
       "claude",
       "claude-ai",
@@ -304,12 +305,11 @@
     "full_name": "unslothai/unsloth",
     "html_url": "https://github.com/unslothai/unsloth",
     "starred_at": "2025-09-26T13:07:26Z",
-    "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.",
+    "description": "Unsloth Studio is a web UI for training and running open models like Qwen3.5, Gemma 4, DeepSeek, gpt-oss locally.",
     "language": "Python",
     "topics": [
       "agent",
       "deepseek",
-      "deepseek-r1",
       "fine-tuning",
       "gemma",
       "gemma3",
@@ -321,12 +321,12 @@
       "mistral",
       "openai",
       "qwen",
-      "qwen3",
       "reinforcement-learning",
+      "self-hosted",
       "text-to-speech",
       "tts",
-      "unsloth",
-      "voice-cloning"
+      "ui",
+      "unsloth"
     ]
   },
   {
@@ -443,6 +443,7 @@
       "anthropic",
       "anthropic-claude",
       "awesome",
+      "awesome-claude-code",
       "awesome-list",
       "awesome-lists",
       "awesome-resources",
@@ -900,7 +901,7 @@
     "full_name": "shoelace-style/shoelace",
     "html_url": "https://github.com/shoelace-style/shoelace",
     "starred_at": "2024-10-05T17:28:02Z",
-    "description": "Web Awesome (\"Shoelace 3\") has been released! Get it here 👇👇👇",
+    "description": "Shoelace is now Web Awesome. Come see what’s new!",
     "language": "TypeScript",
     "topics": [
       "css",
@@ -1175,7 +1176,7 @@
     "full_name": "seaweedfs/seaweedfs",
     "html_url": "https://github.com/seaweedfs/seaweedfs",
     "starred_at": "2024-02-13T18:34:11Z",
-    "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
     "language": "Go",
     "topics": [
       "blob-storage",
@@ -1955,7 +1956,7 @@
     "html_url": "https://github.com/qarmin/czkawka",
     "starred_at": "2021-05-11T03:51:38Z",
     "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
-    "language": "Rust",
+    "language": "Fluent",
     "topics": [
       "cleaner",
       "duplicates",
