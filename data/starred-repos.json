@@ -1,5 +1,40 @@
 [
   {
+    "full_name": "komal-SkyNET/claude-skill-homeassistant",
+    "html_url": "https://github.com/komal-SkyNET/claude-skill-homeassistant",
+    "starred_at": "2026-04-08T16:20:27Z",
+    "description": "Claude Code skill to supercharge and manage all Home Assistant workflows",
+    "language": null,
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "home-assistant"
+    ]
+  },
+  {
+    "full_name": "Coolver/home-assistant-vibecode-agent",
+    "html_url": "https://github.com/Coolver/home-assistant-vibecode-agent",
+    "starred_at": "2026-04-08T14:58:01Z",
+    "description": "Home Assistant MCP server agent. Enable Claude Code, Cursor, VS Code or any MCP-enabled IDE to help you vibe-code and manage Home Assistant: create and debug automations, design dashboards, tweak themes, modify configs, and deploy changes using natural language",
+    "language": "Python",
+    "topics": [
+      "claude",
+      "claudecode",
+      "copilot-enabled",
+      "cursor-ai",
+      "home-assistant",
+      "home-assistant-addons",
+      "home-automation",
+      "homeassistant",
+      "mcp-server",
+      "mcp-servers",
+      "vibecoding-tool",
+      "vscode-extension"
+    ]
+  },
+  {
     "full_name": "googleworkspace/cli",
     "html_url": "https://github.com/googleworkspace/cli",
     "starred_at": "2026-03-13T15:06:24Z",
