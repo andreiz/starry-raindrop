@@ -109,10 +109,10 @@
     "topics": []
   },
   {
-    "full_name": "timeframe/timeframe",
-    "html_url": "https://github.com/timeframe/timeframe",
+    "full_name": "timeframe/ha-addon",
+    "html_url": "https://github.com/timeframe/ha-addon",
     "starred_at": "2026-03-06T18:37:57Z",
-    "description": "An e-paper calendar, weather, and smart home family dashboard",
+    "description": "An e-paper calendar, weather, and smart home family dashboard for Home Assistant",
     "language": "Ruby",
     "topics": [
       "epaper",
@@ -340,7 +340,7 @@
     "full_name": "unslothai/unsloth",
     "html_url": "https://github.com/unslothai/unsloth",
     "starred_at": "2025-09-26T13:07:26Z",
-    "description": "Unsloth Studio is a web UI for training and running open models like Qwen3.5, Gemma 4, DeepSeek, gpt-oss locally.",
+    "description": "Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.",
     "language": "Python",
     "topics": [
       "agent",
