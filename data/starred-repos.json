@@ -1,5 +1,13 @@
 [
   {
+    "full_name": "smhanov/laconic",
+    "html_url": "https://github.com/smhanov/laconic",
+    "starred_at": "2026-04-18T14:59:58Z",
+    "description": "An agentic research orchestrator for Go that is optimized to use free search & low-cost limited context window llms.",
+    "language": "Go",
+    "topics": []
+  },
+  {
     "full_name": "komal-SkyNET/claude-skill-homeassistant",
     "html_url": "https://github.com/komal-SkyNET/claude-skill-homeassistant",
     "starred_at": "2026-04-08T16:20:27Z",
@@ -697,7 +705,7 @@
     "full_name": "fosrl/pangolin",
     "html_url": "https://github.com/fosrl/pangolin",
     "starred_at": "2025-02-19T16:31:43Z",
-    "description": "Identity-aware VPN and proxy for remote access to anything, anywhere.",
+    "description": "Identity-aware VPN and tunneled reverse proxy for remote access.",
     "language": "TypeScript",
     "topics": [
       "identity-management",
