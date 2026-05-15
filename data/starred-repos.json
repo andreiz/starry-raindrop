@@ -1,5 +1,13 @@
 [
   {
+    "full_name": "alebeck/boring",
+    "html_url": "https://github.com/alebeck/boring",
+    "starred_at": "2026-05-14T19:06:23Z",
+    "description": "The `boring`  SSH tunnel manager",
+    "language": "Go",
+    "topics": []
+  },
+  {
     "full_name": "scanopy/scanopy",
     "html_url": "https://github.com/scanopy/scanopy",
     "starred_at": "2026-05-04T23:11:27Z",
@@ -32,9 +40,12 @@
     "language": "TypeScript",
     "topics": [
       "diagram",
+      "homelab",
+      "homelab-infrastructure-observability",
       "network",
       "proxmox-ve",
-      "self-hosted"
+      "self-hosted",
+      "zigbee"
     ]
   },
   {
@@ -386,7 +397,7 @@
     "full_name": "unslothai/unsloth",
     "html_url": "https://github.com/unslothai/unsloth",
     "starred_at": "2025-09-26T13:07:26Z",
-    "description": "Web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.",
+    "description": "Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.",
     "language": "Python",
     "topics": [
       "agent",
@@ -1355,7 +1366,7 @@
     "full_name": "langchain-ai/langchain",
     "html_url": "https://github.com/langchain-ai/langchain",
     "starred_at": "2023-11-06T16:27:41Z",
-    "description": "The agent engineering platform. Available in TypeScript!",
+    "description": "The agent engineering platform.",
     "language": "Python",
     "topics": [
       "agents",
