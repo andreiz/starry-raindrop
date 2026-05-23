@@ -1,5 +1,13 @@
 [
   {
+    "full_name": "tracefinity/tracefinity",
+    "html_url": "https://github.com/tracefinity/tracefinity",
+    "starred_at": "2026-05-22T17:31:54Z",
+    "description": "Generate custom gridfinity bins with AI, from photos of your tools",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
     "full_name": "alebeck/boring",
     "html_url": "https://github.com/alebeck/boring",
     "starred_at": "2026-05-14T19:06:23Z",
@@ -79,7 +87,6 @@
     "topics": [
       "claude",
       "claudecode",
-      "copilot-enabled",
       "cursor-ai",
       "home-assistant",
       "home-assistant-addons",
@@ -87,8 +94,7 @@
       "homeassistant",
       "mcp-server",
       "mcp-servers",
-      "vibecoding-tool",
-      "vscode-extension"
+      "vibecoding-tool"
     ]
   },
   {
@@ -1053,7 +1059,7 @@
     "html_url": "https://github.com/jehna/humanify",
     "starred_at": "2024-09-03T04:03:45Z",
     "description": "Deobfuscate Javascript code using ChatGPT",
-    "language": "TypeScript",
+    "language": "Rust",
     "topics": []
   },
   {
