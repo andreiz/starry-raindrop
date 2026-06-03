@@ -1,5 +1,40 @@
 [
   {
+    "full_name": "asheshgoplani/agent-deck",
+    "html_url": "https://github.com/asheshgoplani/agent-deck",
+    "starred_at": "2026-06-03T02:45:58Z",
+    "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+    "language": "Go",
+    "topics": [
+      "ai-agent",
+      "ai-agents",
+      "ai-coding-assistant",
+      "aider",
+      "bubble-tea",
+      "claude-code",
+      "cli",
+      "codex",
+      "developer-tools",
+      "discord",
+      "gemini-cli",
+      "golang",
+      "mcp",
+      "productivity",
+      "session-manager",
+      "terminal",
+      "tmux",
+      "tui"
+    ]
+  },
+  {
+    "full_name": "liliu-z/magpie",
+    "html_url": "https://github.com/liliu-z/magpie",
+    "starred_at": "2026-06-02T15:03:12Z",
+    "description": "Multi-AI adversarial PR review tool",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
     "full_name": "MatixYo/ESP32-Plane-Radar",
     "html_url": "https://github.com/MatixYo/ESP32-Plane-Radar",
     "starred_at": "2026-06-01T04:11:48Z",
