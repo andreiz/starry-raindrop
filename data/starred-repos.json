@@ -1,5 +1,32 @@
 [
   {
+    "full_name": "trycua/cua",
+    "html_url": "https://github.com/trycua/cua",
+    "starred_at": "2026-06-10T22:27:36Z",
+    "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+    "language": "HTML",
+    "topics": [
+      "agent",
+      "ai-agent",
+      "apple",
+      "computer-use",
+      "computer-use-agent",
+      "containerization",
+      "cua",
+      "desktop-automation",
+      "hacktoberfest",
+      "lume",
+      "macos",
+      "manus",
+      "operator",
+      "swift",
+      "virtualization",
+      "virtualization-framework",
+      "windows",
+      "windows-sandbox"
+    ]
+  },
+  {
     "full_name": "paperclipai/paperclip",
     "html_url": "https://github.com/paperclipai/paperclip",
     "starred_at": "2026-06-03T20:56:51Z",
