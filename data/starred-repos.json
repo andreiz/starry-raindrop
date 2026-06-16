@@ -1,5 +1,13 @@
 [
   {
+    "full_name": "paulomac1000/ha-mcp-readonly",
+    "html_url": "https://github.com/paulomac1000/ha-mcp-readonly",
+    "starred_at": "2026-06-15T20:34:08Z",
+    "description": "Homeassistant MCP server with readonly functions",
+    "language": "Python",
+    "topics": []
+  },
+  {
     "full_name": "trycua/cua",
     "html_url": "https://github.com/trycua/cua",
     "starred_at": "2026-06-10T22:27:36Z",
