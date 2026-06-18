@@ -1,5 +1,28 @@
 [
   {
+    "full_name": "Niko11111/SpoolmanScale",
+    "html_url": "https://github.com/Niko11111/SpoolmanScale",
+    "starred_at": "2026-06-17T15:34:01Z",
+    "description": "SpoolmanScale is an open-source ESP32-based filament scale with NFC reader, integrating directly with Spoolman. Hardware complete, firmware in Public-Beta.",
+    "language": "C",
+    "topics": []
+  },
+  {
+    "full_name": "smol-machines/smolvm",
+    "html_url": "https://github.com/smol-machines/smolvm",
+    "starred_at": "2026-06-17T14:26:26Z",
+    "description": "Tool to build & run portable, lightweight, self-contained virtual machines.",
+    "language": "Rust",
+    "topics": [
+      "containers",
+      "crun",
+      "libkrun",
+      "microvm",
+      "rust",
+      "virtual-machine"
+    ]
+  },
+  {
     "full_name": "paulomac1000/ha-mcp-readonly",
     "html_url": "https://github.com/paulomac1000/ha-mcp-readonly",
     "starred_at": "2026-06-15T20:34:08Z",
