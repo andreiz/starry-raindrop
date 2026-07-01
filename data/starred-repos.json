@@ -143,7 +143,9 @@
       "network",
       "proxmox-ve",
       "self-hosted",
-      "zigbee"
+      "zigbee",
+      "zwave",
+      "zwave-js"
     ]
   },
   {
@@ -289,18 +291,6 @@
     ]
   },
   {
-    "full_name": "shpongledsummer/atmospheric-weather-card",
-    "html_url": "https://github.com/shpongledsummer/atmospheric-weather-card",
-    "starred_at": "2026-02-09T05:00:44Z",
-    "description": "Animated weather card for Home Assistant",
-    "language": "JavaScript",
-    "topics": [
-      "lovelace",
-      "weather",
-      "weather-forecast"
-    ]
-  },
-  {
     "full_name": "philippb/claude-homeassistant",
     "html_url": "https://github.com/philippb/claude-homeassistant",
     "starred_at": "2026-02-05T16:00:41Z",
@@ -357,7 +347,20 @@
     "starred_at": "2026-01-03T15:59:07Z",
     "description": "Why is this running?",
     "language": "Go",
-    "topics": []
+    "topics": [
+      "cli",
+      "devops",
+      "freebsd",
+      "golang",
+      "linux",
+      "macos",
+      "observability",
+      "process",
+      "sysadmin",
+      "troubleshooting",
+      "tui",
+      "windows"
+    ]
   },
   {
     "full_name": "browserbase/stagehand",
@@ -419,7 +422,16 @@
     "starred_at": "2025-10-13T15:29:14Z",
     "description": "An agentic skills framework & software development methodology that works.",
     "language": "Shell",
-    "topics": []
+    "topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "subagent-driven-development",
+      "superpowers"
+    ]
   },
   {
     "full_name": "fathulfahmy/aio-usb-drive",
@@ -1121,6 +1133,8 @@
       "mcp-gateway",
       "openai",
       "openai-proxy",
+      "rust",
+      "rust-ai",
       "vertex-ai"
     ]
   },
