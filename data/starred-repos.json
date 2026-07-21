@@ -1,5 +1,37 @@
 [
   {
+    "full_name": "xtool-org/xtool",
+    "html_url": "https://github.com/xtool-org/xtool",
+    "starred_at": "2026-07-20T18:27:14Z",
+    "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+    "language": "Swift",
+    "topics": [
+      "ios",
+      "linux",
+      "swift",
+      "swift-package-manager",
+      "windows",
+      "xcode"
+    ]
+  },
+  {
+    "full_name": "jamiepine/voicebox",
+    "html_url": "https://github.com/jamiepine/voicebox",
+    "starred_at": "2026-07-20T15:49:31Z",
+    "description": "The open-source AI voice studio. Clone, dictate, create.",
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "cuda",
+      "mlx",
+      "qwen3-tts",
+      "qwen3-tts-ui",
+      "voice-ai",
+      "voice-clone",
+      "whisper"
+    ]
+  },
+  {
     "full_name": "Niko11111/SpoolmanScale",
     "html_url": "https://github.com/Niko11111/SpoolmanScale",
     "starred_at": "2026-06-17T15:34:01Z",
@@ -11,7 +43,7 @@
     "full_name": "smol-machines/smolvm",
     "html_url": "https://github.com/smol-machines/smolvm",
     "starred_at": "2026-06-17T14:26:26Z",
-    "description": "Tool to build & run portable, lightweight, self-contained virtual machines.",
+    "description": "Portable, lightweight, self-contained virtual machine.",
     "language": "Rust",
     "topics": [
       "containers",
@@ -34,7 +66,7 @@
     "full_name": "trycua/cua",
     "html_url": "https://github.com/trycua/cua",
     "starred_at": "2026-06-10T22:27:36Z",
-    "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
     "language": "HTML",
     "topics": [
       "agent",
@@ -345,18 +377,26 @@
     "full_name": "pranshuparmar/witr",
     "html_url": "https://github.com/pranshuparmar/witr",
     "starred_at": "2026-01-03T15:59:07Z",
-    "description": "Why is this running?",
+    "description": "witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.",
     "language": "Go",
     "topics": [
       "cli",
+      "containers",
       "devops",
+      "docker",
       "freebsd",
+      "go",
       "golang",
+      "incident-response",
+      "kubernetes",
       "linux",
       "macos",
+      "monitoring",
       "observability",
-      "process",
+      "process-management",
       "sysadmin",
+      "systemd",
+      "terminal",
       "troubleshooting",
       "tui",
       "windows"
@@ -505,7 +545,7 @@
     "full_name": "unslothai/unsloth",
     "html_url": "https://github.com/unslothai/unsloth",
     "starred_at": "2025-09-26T13:07:26Z",
-    "description": "Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.",
+    "description": "Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other models.",
     "language": "Python",
     "topics": [
       "agent",
@@ -632,7 +672,7 @@
     "full_name": "hesreallyhim/awesome-claude-code",
     "html_url": "https://github.com/hesreallyhim/awesome-claude-code",
     "starred_at": "2025-06-21T15:01:58Z",
-    "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
+    "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -1117,7 +1157,7 @@
     "full_name": "BerriAI/litellm",
     "html_url": "https://github.com/BerriAI/litellm",
     "starred_at": "2024-10-01T07:46:23Z",
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
     "language": "Python",
     "topics": [
       "ai-gateway",
