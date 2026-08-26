@@ -1,5 +1,13 @@
 [
   {
+    "full_name": "CharlesWiltgen/Axiom",
+    "html_url": "https://github.com/CharlesWiltgen/Axiom",
+    "starred_at": "2026-08-25T17:21:37Z",
+    "description": "Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development",
+    "language": "Go",
+    "topics": []
+  },
+  {
     "full_name": "xtool-org/xtool",
     "html_url": "https://github.com/xtool-org/xtool",
     "starred_at": "2026-07-20T18:27:14Z",
@@ -335,7 +343,7 @@
     "html_url": "https://github.com/homeassistant-ai/skills",
     "starred_at": "2026-02-05T15:57:19Z",
     "description": "Home Assistant skills for agents",
-    "language": null,
+    "language": "Python",
     "topics": []
   },
   {
@@ -377,7 +385,7 @@
     "full_name": "pranshuparmar/witr",
     "html_url": "https://github.com/pranshuparmar/witr",
     "starred_at": "2026-01-03T15:59:07Z",
-    "description": "witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.",
+    "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI. ",
     "language": "Go",
     "topics": [
       "cli",
@@ -545,24 +553,25 @@
     "full_name": "unslothai/unsloth",
     "html_url": "https://github.com/unslothai/unsloth",
     "starred_at": "2025-09-26T13:07:26Z",
-    "description": "Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other models.",
+    "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
     "language": "Python",
     "topics": [
       "agent",
+      "ai",
+      "chatgpt",
       "deepseek",
       "fine-tuning",
       "gemma",
-      "gemma3",
-      "gpt-oss",
+      "image-generation",
       "llama",
-      "llama3",
       "llm",
       "llms",
-      "mistral",
       "openai",
+      "python",
       "qwen",
       "reinforcement-learning",
       "self-hosted",
+      "stable-diffusion",
       "text-to-speech",
       "tts",
       "ui",
@@ -1079,27 +1088,9 @@
     "full_name": "microsoft/genaiscript",
     "html_url": "https://github.com/microsoft/genaiscript",
     "starred_at": "2024-11-01T17:14:52Z",
-    "description": "Automatable GenAI Scripting",
+    "description": "DEPRECATED",
     "language": "TypeScript",
-    "topics": [
-      "agent",
-      "agents",
-      "ai",
-      "chatgpt",
-      "deepseek-r1",
-      "genai",
-      "genaistack",
-      "gpt",
-      "gpt4",
-      "javascript",
-      "llm",
-      "llm-framework",
-      "phi4",
-      "prompt-engineering",
-      "scripting",
-      "typescript",
-      "vscode-extension"
-    ]
+    "topics": []
   },
   {
     "full_name": "martinknu/arduino-heatpumpir_fork",
