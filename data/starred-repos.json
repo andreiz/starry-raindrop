@@ -1,5 +1,27 @@
 [
   {
+    "full_name": "virgiliojr94/book-to-skill",
+    "html_url": "https://github.com/virgiliojr94/book-to-skill",
+    "starred_at": "2026-09-01T19:16:53Z",
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "book-to-skill",
+      "context-engineering",
+      "document-processing",
+      "edtech",
+      "knowledge-base",
+      "knowledge-management",
+      "llm",
+      "pdf-to-markdown",
+      "rag",
+      "self-study",
+      "study-tools"
+    ]
+  },
+  {
     "full_name": "asciimoo/hister",
     "html_url": "https://github.com/asciimoo/hister",
     "starred_at": "2026-08-28T04:57:17Z",
@@ -157,7 +179,7 @@
     "html_url": "https://github.com/tracefinity/tracefinity",
     "starred_at": "2026-05-22T17:31:54Z",
     "description": "Generate custom gridfinity bins with AI, from photos of your tools",
-    "language": "TypeScript",
+    "language": "Python",
     "topics": []
   },
   {
@@ -576,7 +598,7 @@
     "full_name": "unslothai/unsloth",
     "html_url": "https://github.com/unslothai/unsloth",
     "starred_at": "2025-09-26T13:07:26Z",
-    "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.",
+    "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.",
     "language": "Python",
     "topics": [
       "agent",
