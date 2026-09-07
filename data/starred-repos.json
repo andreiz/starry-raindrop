@@ -1,5 +1,16 @@
 [
   {
+    "full_name": "potatoqualitee/eol-dr",
+    "html_url": "https://github.com/potatoqualitee/eol-dr",
+    "starred_at": "2026-09-06T23:36:35Z",
+    "description": "🕊️ A crowd-sourced guide to help techs help their non-tech spouses / partners / parents / kids when we are at the end-of-life",
+    "language": null,
+    "topics": [
+      "disaster-management",
+      "disaster-response"
+    ]
+  },
+  {
     "full_name": "virgiliojr94/book-to-skill",
     "html_url": "https://github.com/virgiliojr94/book-to-skill",
     "starred_at": "2026-09-01T19:16:53Z",
@@ -96,7 +107,7 @@
     "full_name": "smol-machines/smolvm",
     "html_url": "https://github.com/smol-machines/smolvm",
     "starred_at": "2026-06-17T14:26:26Z",
-    "description": "Portable, lightweight, self-contained virtual machine.",
+    "description": "Branchable computing by using a portable, lightweight, self-contained virtual machine",
     "language": "Rust",
     "topics": [
       "containers",
@@ -956,24 +967,24 @@
     "full_name": "fosrl/pangolin",
     "html_url": "https://github.com/fosrl/pangolin",
     "starred_at": "2025-02-19T16:31:43Z",
-    "description": "Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.",
+    "description": "Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.",
     "language": "TypeScript",
     "topics": [
-      "identity-management",
-      "iot",
       "nat-traversal",
       "oidc",
       "pam",
-      "private-access",
-      "proxy",
+      "pangolin",
       "remote-access",
       "reverse-proxy",
+      "sase",
       "self-hosted",
       "single-sign-on",
       "ssh",
+      "sso",
       "tunneling",
       "vpn",
       "wireguard",
+      "wireguard-vpn",
       "zero-trust",
       "zero-trust-network-access",
       "ztna"
