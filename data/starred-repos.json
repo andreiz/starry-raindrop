@@ -810,8 +810,8 @@
     ]
   },
   {
-    "full_name": "apple/ml-fastvlm",
-    "html_url": "https://github.com/apple/ml-fastvlm",
+    "full_name": "apple-aiml-research/ml-fastvlm",
+    "html_url": "https://github.com/apple-aiml-research/ml-fastvlm",
     "starred_at": "2025-06-01T16:16:01Z",
     "description": "This repository contains the official implementation of \"FastVLM: Efficient Vision Encoding for Vision Language Models\" - CVPR 2025",
     "language": "Python",
@@ -970,6 +970,8 @@
     "description": "Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.",
     "language": "TypeScript",
     "topics": [
+      "ai-gateway",
+      "gateway",
       "nat-traversal",
       "oidc",
       "pam",
