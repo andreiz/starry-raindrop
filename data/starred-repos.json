@@ -1,5 +1,13 @@
 [
   {
+    "full_name": "Knowledgator/GLiClass",
+    "html_url": "https://github.com/Knowledgator/GLiClass",
+    "starred_at": "2026-09-23T15:26:45Z",
+    "description": "Generalist and Lightweight Model for Text Classification",
+    "language": "Python",
+    "topics": []
+  },
+  {
     "full_name": "potatoqualitee/eol-dr",
     "html_url": "https://github.com/potatoqualitee/eol-dr",
     "starred_at": "2026-09-06T23:36:35Z",
@@ -107,7 +115,7 @@
     "full_name": "smol-machines/smolvm",
     "html_url": "https://github.com/smol-machines/smolvm",
     "starred_at": "2026-06-17T14:26:26Z",
-    "description": "Branchable computing by using a portable, lightweight, self-contained virtual machine",
+    "description": "An embeddable, portable, branchable virtual machine to safely run Agents locally.",
     "language": "Rust",
     "topics": [
       "containers",
@@ -470,15 +478,23 @@
     "full_name": "browserbase/stagehand",
     "html_url": "https://github.com/browserbase/stagehand",
     "starred_at": "2025-12-26T15:24:34Z",
-    "description": "The SDK For Browser Agents",
+    "description": "The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.",
     "language": "TypeScript",
     "topics": [
       "agents",
       "ai",
-      "llms",
+      "ai-agents",
+      "browser-agent",
+      "browser-automation",
+      "cdp",
+      "cloud-browser",
+      "data-extraction",
+      "headless-chrome",
       "playwright",
-      "puppeteer",
-      "selenium"
+      "python",
+      "typescript",
+      "web-automation",
+      "web-scraping"
     ]
   },
   {
