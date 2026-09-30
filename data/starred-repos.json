@@ -1,5 +1,32 @@
 [
   {
+    "full_name": "sgl-project/sglang",
+    "html_url": "https://github.com/sgl-project/sglang",
+    "starred_at": "2026-09-30T14:29:56Z",
+    "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+    "language": "Python",
+    "topics": [
+      "attention",
+      "blackwell",
+      "cuda",
+      "deepseek",
+      "diffusion",
+      "glm",
+      "gpt-oss",
+      "inference",
+      "llama",
+      "llm",
+      "minimax",
+      "moe",
+      "qwen",
+      "qwen-image",
+      "reinforcement-learning",
+      "transformer",
+      "vlm",
+      "wan"
+    ]
+  },
+  {
     "full_name": "Knowledgator/GLiClass",
     "html_url": "https://github.com/Knowledgator/GLiClass",
     "starred_at": "2026-09-23T15:26:45Z",
@@ -524,7 +551,7 @@
     "full_name": "github/spec-kit",
     "html_url": "https://github.com/github/spec-kit",
     "starred_at": "2025-11-05T18:27:40Z",
-    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+    "description": "💫 Toolkit to help you get started with SDD or any other process!",
     "language": "Python",
     "topics": [
       "ai",
