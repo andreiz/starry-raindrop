@@ -1,5 +1,34 @@
 [
   {
+    "full_name": "jxlarrea/kiosk-satellite",
+    "html_url": "https://github.com/jxlarrea/kiosk-satellite",
+    "starred_at": "2026-10-03T00:06:19Z",
+    "description": "Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.",
+    "language": "Dart",
+    "topics": [
+      "android",
+      "apk",
+      "bluetooth-low-energy",
+      "bluetooth-proxy",
+      "camera",
+      "dlna",
+      "esphome",
+      "home-assistant",
+      "home-automation",
+      "homeassistant",
+      "iot",
+      "kiosk",
+      "mqtt",
+      "music-assistant",
+      "sendspin",
+      "voice",
+      "voice-assistant",
+      "voice-control",
+      "voice-satellite",
+      "webrtc"
+    ]
+  },
+  {
     "full_name": "sgl-project/sglang",
     "html_url": "https://github.com/sgl-project/sglang",
     "starred_at": "2026-09-30T14:29:56Z",
@@ -166,7 +195,7 @@
     "html_url": "https://github.com/trycua/cua",
     "starred_at": "2026-06-10T22:27:36Z",
     "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-    "language": "HTML",
+    "language": "Rust",
     "topics": [
       "agent",
       "ai-agent",
