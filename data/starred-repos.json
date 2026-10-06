@@ -1,5 +1,13 @@
 [
   {
+    "full_name": "firelex/jeff",
+    "html_url": "https://github.com/firelex/jeff",
+    "starred_at": "2026-10-05T22:49:48Z",
+    "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+    "language": "Python",
+    "topics": []
+  },
+  {
     "full_name": "reladraw/reladraw",
     "html_url": "https://github.com/reladraw/reladraw",
     "starred_at": "2026-10-04T16:36:03Z",
