@@ -1,5 +1,19 @@
 [
   {
+    "full_name": "juggler-ai/juggler",
+    "html_url": "https://github.com/juggler-ai/juggler",
+    "starred_at": "2026-10-08T18:36:09Z",
+    "description": "The Juggler Code Agent",
+    "language": "JavaScript",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agents",
+      "ai-agents",
+      "coding-assistant"
+    ]
+  },
+  {
     "full_name": "firelex/jeff",
     "html_url": "https://github.com/firelex/jeff",
     "starred_at": "2026-10-05T22:49:48Z",
@@ -163,7 +177,7 @@
     "html_url": "https://github.com/jamiepine/voicebox",
     "starred_at": "2026-07-20T15:49:31Z",
     "description": "The open-source AI voice studio. Clone, dictate, create.",
-    "language": "TypeScript",
+    "language": "Python",
     "topics": [
       "ai",
       "cuda",
