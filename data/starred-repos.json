@@ -1,5 +1,34 @@
 [
   {
+    "full_name": "morluto/rea",
+    "html_url": "https://github.com/morluto/rea",
+    "starred_at": "2026-10-12T15:10:10Z",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "binary-analysis",
+      "claude-code",
+      "cli",
+      "codex",
+      "cordis",
+      "ctf",
+      "decompiler",
+      "developer-tools",
+      "disassembler",
+      "dsh",
+      "dsh-plugin",
+      "ghidra",
+      "hopper",
+      "llm",
+      "mcp",
+      "model-context-protocol",
+      "reverse-engineering",
+      "static-analysis"
+    ]
+  },
+  {
     "full_name": "juggler-ai/juggler",
     "html_url": "https://github.com/juggler-ai/juggler",
     "starred_at": "2026-10-08T18:36:09Z",
@@ -134,12 +163,9 @@
     "language": "Go",
     "topics": [
       "browser-history",
-      "go",
-      "golang",
       "history",
       "index",
       "mcp",
-      "mcp-server",
       "personal-search",
       "personal-search-engine",
       "privacy",
@@ -259,7 +285,28 @@
     "starred_at": "2026-06-03T20:56:51Z",
     "description": "The open-source app everyone uses to manage agents at work",
     "language": "TypeScript",
-    "topics": []
+    "topics": [
+      "acpx",
+      "agent-orchestration",
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "ai-engineering",
+      "ai-governance",
+      "ai-tools",
+      "autonomous-agents",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "hermes",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "openclaw",
+      "project-management",
+      "workflow-automation"
+    ]
   },
   {
     "full_name": "liliu-z/magpie",
@@ -845,7 +892,7 @@
     "full_name": "hesreallyhim/awesome-claude-code",
     "html_url": "https://github.com/hesreallyhim/awesome-claude-code",
     "starred_at": "2025-06-21T15:01:58Z",
-    "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+    "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
     "language": "Python",
     "topics": [
       "agent-skills",
