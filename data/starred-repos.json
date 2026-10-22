@@ -1,5 +1,22 @@
 [
   {
+    "full_name": "aboard-io/tinylittleoffice",
+    "html_url": "https://github.com/aboard-io/tinylittleoffice",
+    "starred_at": "2026-10-21T16:02:21Z",
+    "description": "A free office suite where your document is inside the link and easy to share. There's no account and nothing saved unless you choose.",
+    "language": "TypeScript",
+    "topics": [
+      "cloudflare-workers",
+      "lit",
+      "local-first",
+      "no-backend",
+      "office-suite",
+      "privacy",
+      "pwa",
+      "web-components"
+    ]
+  },
+  {
     "full_name": "morluto/rea",
     "html_url": "https://github.com/morluto/rea",
     "starred_at": "2026-10-12T15:10:10Z",
@@ -13,10 +30,8 @@
       "cli",
       "codex",
       "cordis",
-      "ctf",
       "decompiler",
       "developer-tools",
-      "disassembler",
       "dsh",
       "dsh-plugin",
       "ghidra",
@@ -24,8 +39,10 @@
       "llm",
       "mcp",
       "model-context-protocol",
+      "rea",
       "reverse-engineering",
-      "static-analysis"
+      "static-analysis",
+      "touhou"
     ]
   },
   {
@@ -256,7 +273,7 @@
     "full_name": "trycua/cua",
     "html_url": "https://github.com/trycua/cua",
     "starred_at": "2026-06-10T22:27:36Z",
-    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
     "language": "Rust",
     "topics": [
       "agent",
@@ -764,7 +781,7 @@
     "full_name": "unslothai/unsloth",
     "html_url": "https://github.com/unslothai/unsloth",
     "starred_at": "2025-09-26T13:07:26Z",
-    "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.",
+    "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
     "language": "Python",
     "topics": [
       "agent",
@@ -2454,8 +2471,6 @@
       "notifications",
       "rss",
       "scraper",
-      "twitter",
-      "twitter-streaming",
       "webscraping"
     ]
   },
