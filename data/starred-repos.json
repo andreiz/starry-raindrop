@@ -1,5 +1,26 @@
 [
   {
+    "full_name": "henriquesebastiao/downtify",
+    "html_url": "https://github.com/henriquesebastiao/downtify",
+    "starred_at": "2026-10-22T16:07:30Z",
+    "description": "Download and listen to your music, playlists, and podcasts, along with album art and metadata",
+    "language": "Python",
+    "topics": [
+      "downloader",
+      "mp3",
+      "music",
+      "music-downloader",
+      "music-player",
+      "playlists",
+      "podcast",
+      "podcast-downloader",
+      "podcast-player",
+      "self-hosted",
+      "spotify",
+      "spotify-downloader"
+    ]
+  },
+  {
     "full_name": "aboard-io/tinylittleoffice",
     "html_url": "https://github.com/aboard-io/tinylittleoffice",
     "starred_at": "2026-10-21T16:02:21Z",
