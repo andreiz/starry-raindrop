@@ -1,5 +1,13 @@
 [
   {
+    "full_name": "ipilcher/fdf",
+    "html_url": "https://github.com/ipilcher/fdf",
+    "starred_at": "2026-10-23T15:53:18Z",
+    "description": "Flexible Discovery Forwarder",
+    "language": "C",
+    "topics": []
+  },
+  {
     "full_name": "henriquesebastiao/downtify",
     "html_url": "https://github.com/henriquesebastiao/downtify",
     "starred_at": "2026-10-22T16:07:30Z",
@@ -92,9 +100,15 @@
     "full_name": "reladraw/reladraw",
     "html_url": "https://github.com/reladraw/reladraw",
     "starred_at": "2026-10-04T16:36:03Z",
-    "description": null,
+    "description": "A text diagram language where you say where things go. Playground: reladraw.github.io/reladraw",
     "language": "TypeScript",
-    "topics": []
+    "topics": [
+      "diagram",
+      "diagrams-as-code",
+      "dsl",
+      "svg",
+      "text-to-diagram"
+    ]
   },
   {
     "full_name": "jxlarrea/kiosk-satellite",
