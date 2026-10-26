@@ -1,5 +1,13 @@
 [
   {
+    "full_name": "ramarivera/coding-buddy",
+    "html_url": "https://github.com/ramarivera/coding-buddy",
+    "starred_at": "2026-10-26T03:11:55Z",
+    "description": "Keep Your Claude Code Buddy Forever — permanent coding companion that survives every update",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
     "full_name": "ipilcher/fdf",
     "html_url": "https://github.com/ipilcher/fdf",
     "starred_at": "2026-10-23T15:53:18Z",
@@ -271,9 +279,18 @@
     "full_name": "Niko11111/SpoolmanScale",
     "html_url": "https://github.com/Niko11111/SpoolmanScale",
     "starred_at": "2026-06-17T15:34:01Z",
-    "description": "SpoolmanScale is an open-source ESP32-based filament scale with NFC reader, integrating directly with Spoolman. Hardware complete, firmware in Public-Beta.",
+    "description": "Open-source ESP32 filament scale with NFC and touch display for Spoolman, FilaMan and BamBuddy: weighs spools and updates the inventory, reads Bambu tags and writes its own, creates spools right on the scale, prints labels on Bluetooth printers, with a web interface.",
     "language": "C",
-    "topics": []
+    "topics": [
+      "3d-printing",
+      "bambu-lab",
+      "bambuddy",
+      "esp32",
+      "filaman",
+      "filament",
+      "nfc",
+      "spoolman"
+    ]
   },
   {
     "full_name": "smol-machines/smolvm",
